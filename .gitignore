@@ -1,0 +1,9 @@
+# Ignore ANY child directory named "v", "vid", "video" or "videos"
+v/
+vid/
+video/
+videos/
+
+# Just in case, ignore mp4 files
+*.mp4
+
