@@ -620,8 +620,8 @@ Quienes tenganl la misma letra harán equipo]
 
 125
 00:05:35,952 --> 00:05:37,497
-[¿Es el sonido de los zombis
-o los gritos de SUGA?]
+[¿Son los gritos de los zombis...
+o de SUGA?]
 
 126
 00:05:38,822 --> 00:05:40,501
@@ -638,7 +638,7 @@ o los gritos de SUGA?]
 129
 00:05:49,905 --> 00:05:52,125
 [Contiene el aliento
-a intenta quitar el sticker]
+a intenta quitarles el sticker]
 
 130
 00:05:52,300 --> 00:05:54,210
@@ -671,12 +671,12 @@ Consiguió dos.
 Eso me asustó.
 
 137
-00:06:11,440 --> 00:06:12,568
+00:06:11,500 --> 00:06:12,800
 [BTS vs. Zombis]
 [Equipo A: RM, V, Jung Kook]
 
 138
-00:06:12,593 --> 00:06:14,649
+00:06:12,833 --> 00:06:14,649
 [Equipo B: Jin, SUGA]
 [Equipo C: j-hope, Jimin]
 
@@ -782,15 +782,14 @@ mayor será su amor por ARMY.
 [BTS vs. Zombis]
 
 159
-00:07:03,161 --> 00:07:05,356
-[En un laboratorio misterioso lleno
-de zombis, cada equipo encuentra
-pistas y cumple una misión]
+00:07:03,161 --> 00:07:05,252
+[En un laboratorio lleno de zombis,
+los equipos encuentran pistas]
 
 160
-00:07:05,356 --> 00:07:07,271
-[para resolver misiones secretas
-y encontrar entradas para ARMY]
+00:07:05,267 --> 00:07:07,267
+[y cumplen misiones secretas
+mientras buscan entradas para ARMY]
 
 161
 00:07:07,960 --> 00:07:10,640
@@ -802,7 +801,7 @@ y encontrar entradas para ARMY]
 00:07:10,660 --> 00:07:13,695
 - Pasó alguien.
 - Comenzó el juego.
-[[Jin y RM se sorprenden muchas veces]
+[Jin y RM se siguen sorprendiendo]
 
 163
 00:07:13,695 --> 00:07:15,133
@@ -857,7 +856,7 @@ Encontramos una.
 173
 00:07:33,823 --> 00:07:35,636
 Pongámoslo ahí para engañar a los demás.
-[Juegan trucos]
+[Les toman el pelo]
 
 174
 00:07:40,020 --> 00:07:42,200
@@ -880,7 +879,8 @@ V, ¡vamos!
 
 178
 00:07:50,420 --> 00:07:52,580
-[Se detuvo] [Se detuvieron juntos]
+[Se detienen]
+[juntos]
 
 179
 00:07:52,580 --> 00:07:54,747
@@ -942,7 +942,7 @@ Oye, mi corazón es débil.
 
 191
 00:08:19,725 --> 00:08:23,205
-Hay un zombi en el frente.
+Hay un zombi al frente.
 Pasemos por ahí juntos.
 
 192
@@ -962,18 +962,18 @@ Jimin, vamos a otro lado.
 195
 00:08:29,750 --> 00:08:30,570
 Es extranjero.
-[Finge estar bien]
+[Finge sentirse bien]
 
 196
 00:08:30,570 --> 00:08:33,090
 Es extranjero.
-Puedes salir ahora.
-[Diferente de lo que piensa]
+Ya puedes salir.
+[No es lo que piensa]
 
 197
 00:08:33,090 --> 00:08:35,356
 Hola, hola. Adelante.
-[Worldwide Handsome intenta negociar
+[El chico guapo internacional negocia
 con los zombis extranjeros]
 
 198
@@ -995,7 +995,7 @@ No hagas eso.
 
 202
 00:08:48,188 --> 00:08:50,020
-¿Por qué me harían esto?
+¿Por qué me hacen esto?
 [SUGA sigue preguntándose por qué]
 [Jin no se puede mover]
 
@@ -1011,7 +1011,7 @@ Por favor, no hagas eso.
 
 205
 00:08:53,950 --> 00:08:55,230
-¡Vamos!
+¡Ey!
 
 206
 00:08:59,761 --> 00:09:00,511
@@ -1019,7 +1019,8 @@ Por favor, no hagas eso.
 
 207
 00:09:02,790 --> 00:09:04,130
-[No te preocupes, Hobi. No te lastimaré]
+[No te preocupes, Hobi.
+No te lastimaré]
 
 208
 00:09:04,130 --> 00:09:05,940
@@ -1035,7 +1036,7 @@ No son coreanos.
 
 211
 00:09:15,740 --> 00:09:17,640
-Primero.
+Primero...
 [Mientras tanto, el equipo A]
 [Los jóvenes intrépidos y el líder cortés]
 
@@ -1063,8 +1064,7 @@ Disculpe.
 
 217
 00:09:27,950 --> 00:09:32,990
-[Lamento interrumpir
-su momento de soledad]
+[Lamento interrumpir su momento de soledad]
 
 218
 00:09:32,990 --> 00:09:33,880
@@ -1158,9 +1158,9 @@ arrastrándose en el suelo]
 
 237
 00:10:20,370 --> 00:10:22,414
-- C / -¿C?
-[El equipo C encontró
-la sala con su misión]
+- Una C
+ -¿Una C?
+[El equipo C encontró la sala con su misión]
 
 238
 00:10:22,438 --> 00:10:24,125
