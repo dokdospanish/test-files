@@ -740,7 +740,7 @@ Les mostraremos la manera segura de salir.
 150
 00:06:42,248 --> 00:06:45,004
 [Run BTS: BTS vs. Zombis
-El 2º juego]
+El segundo juego]
 
 151
 00:06:45,004 --> 00:06:46,899
@@ -1233,7 +1233,7 @@ Es una pista de robo.
 253
 00:10:56,599 --> 00:10:59,112
 Sí, saben lo que es, ¿no?
-[El equipo A consiguió una pista de robo
+[El equipo A consiguió la pista de robo
 que necesita para escapar]
 
 254
@@ -1243,8 +1243,8 @@ Lo más importante es el grupo sanguíneo.
 
 255
 00:11:03,135 --> 00:11:05,355
-Espera. ¿No tenemos
-que entrar a algún lado?
+Espera.
+¿No tenemos que entrar a algún lado?
 
 256
 00:11:05,355 --> 00:11:06,640
@@ -1286,7 +1286,7 @@ miedo a los zombis]
 264
 00:11:22,695 --> 00:11:26,530
 Espera.
-[Excepto una persona que sigue asustada]
+[Solo una persona sigue asustada]
 
 265
 00:11:27,000 --> 00:11:28,670
@@ -1331,7 +1331,7 @@ Hay un código QR.
 00:11:46,820 --> 00:11:48,620
 Escanea el código QR.
 Aquí tienes.
-[RM da instrucciones afuera]
+[RM da instrucciones desde afuera]
 
 274
 00:11:48,620 --> 00:11:52,440
@@ -1344,7 +1344,7 @@ Hay una carta en la caja.
 276
 00:11:58,510 --> 00:12:00,495
 El grupo sanguíneo es lo más importante.
-[Lo lee por 3º vez]
+[Lo lee por tercera vez]
 
 277
 00:12:00,495 --> 00:12:02,070
@@ -1377,7 +1377,7 @@ Espera.
 
 283
 00:12:12,780 --> 00:12:16,850
-Bien, ella creció así.
+¡Claro! Ella va creciendo así.
 [Se dio cuenta de que los códigos QR
 y los dibujos están relacionados]
 
@@ -1390,7 +1390,7 @@ y los dibujos están relacionados]
 285
 00:12:19,065 --> 00:12:22,255
 Corramos.
-[El equipo B aún no encontró la misión]
+[El equipo B aún no encuentra la misión]
 
 286
 00:12:23,070 --> 00:12:24,190
@@ -1402,8 +1402,7 @@ Corramos.
 
 288
 00:12:29,770 --> 00:12:31,405
-[Se sorprendieron varias veces
-con la cámara]
+[La cámara los asusta varias veces]
 
 289
 00:12:32,225 --> 00:12:33,195
@@ -1422,8 +1421,8 @@ Debemos atraparlo.
 
 292
 00:12:40,760 --> 00:12:43,620
-[El grito de Hobi se escucha
-en todos lados]
+[El grito de Hobi se oye en todos lados]
+[Ja, ja, ja]
 
 293
 00:12:45,690 --> 00:12:46,850
@@ -1441,7 +1440,7 @@ en todos lados]
 296
 00:12:51,139 --> 00:12:52,985
 - ¿Qué es?
-- Ve al nº uno.
+- Ve al número uno.
 [Pero no pueden descifrar la pista]
 
 297
@@ -1450,7 +1449,7 @@ No, este es el patrón.
 
 298
 00:12:54,985 --> 00:12:57,850
-Nº uno... ¿Qué hacemos?
+El número uno... ¿Qué hacemos?
 
 299
 00:12:59,670 --> 00:13:00,625
@@ -1477,7 +1476,7 @@ No puedo ir.
 
 304
 00:13:08,440 --> 00:13:11,230
-Aquí está. Esta es ella cuando nació.
+Aquí, esta es ella cuando nació.
 [El equipo A resuelve
 la prueba fluidamente]
 
@@ -1536,7 +1535,7 @@ Por favor, déjanos pasar.
 316
 00:13:45,628 --> 00:13:48,001
 ¿No?
-Es un callejón sin salida.
+Ay, es un callejón sin salida.
 
 317
 00:13:48,685 --> 00:13:51,615
@@ -1581,7 +1580,7 @@ Rayos.
 
 326
 00:14:20,600 --> 00:14:21,900
-[¿Por qué está aquí el director...?]
+[¿Qué hace aquí el director...?]
 
 327
 00:14:25,945 --> 00:14:27,000
@@ -1621,12 +1620,12 @@ Registros quirúrgicos...
 334
 00:14:41,105 --> 00:14:43,085
 No puedo resolverlo.
-¿Nos vemos, muchachos?
+¿Nos vamos, muchachos?
 
 335
 00:14:43,085 --> 00:14:46,255
 - Barras de acero.
-- ¿Llevamos esto?
+- ¿No llevamos esto?
 [Pasan a la siguiente pista]
 
 336
@@ -1654,7 +1653,7 @@ a encontrar el lugar de la misión]
 00:14:57,860 --> 00:15:00,650
 - Este es el lugar.
 - ¿Estás seguro?
-[Vagan luego de encontrar el lugar]
+[De paseo luego de encontrar el lugar]
 
 342
 00:15:00,650 --> 00:15:02,520
@@ -3271,7 +3270,7 @@ Jin consiguió seis entradas]
 
 681
 00:30:50,024 --> 00:30:52,093
-- ¿En serio? ¿seis entradas?
+- ¿En serio? ¿Seis entradas?
 - Me esforcé.
 
 682
@@ -3383,7 +3382,7 @@ Démosle stickers.
 703
 00:31:43,380 --> 00:31:47,240
 Seis miembros excepto Jin pagarán
-Seis entradas más.
+seis entradas más.
 [Agreguemos seis entradas para hacer 40]
 
 704
