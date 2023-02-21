@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:21,047 --> 00:00:24,380
 [Run BTS: BTS vs. Zombis]
 
@@ -106,7 +106,7 @@ especialmente para ustedes.
 00:01:09,113 --> 00:01:12,039
 ¡Abrieron el safari de noche
 para nosotros!
-[Para international sunshine rainbow BTS]
+[Para International Sunshine Rainbow BTS]
 
 23
 00:01:12,039 --> 00:01:13,974
@@ -416,7 +416,7 @@ corre hacia j-hope]
 
 83
 00:03:35,650 --> 00:03:37,460
-¿Tengo que hacerl?
+¿Tengo que hacer?
 [En las películas de terror, si bajas...]
 [Digan que no]
 
@@ -572,7 +572,7 @@ Por suerte, aún hay sobrevivientes abajo.
 00:04:57,756 --> 00:04:59,827
 [Quitar stickers con letras
 de la ropa de los zombis.
-Quienes tenganl la misma letra harán equipo]
+Quienes tengan la misma letra harán equipo]
 
 115
 00:04:59,827 --> 00:05:01,368
@@ -973,7 +973,7 @@ Ya puedes salir.
 197
 00:08:33,090 --> 00:08:35,356
 Hola, hola. Adelante.
-[El chico guapo internacional negocia
+[El Worldwide Handsome negocia
 con los zombis extranjeros]
 
 198
@@ -1705,7 +1705,7 @@ de la sala del turno nocturno?
 
 352
 00:15:23,770 --> 00:15:25,455
-- Dos ítems.
+- Dos cosas.
 - Mira.
 [Hurga]
 
@@ -1715,7 +1715,7 @@ El rojo y el vacío.
 
 354
 00:15:28,860 --> 00:15:31,270
-Los códigos del patrón...
+El patrón del código...
 [Encontraron pistas que no entienden]
 
 355
@@ -1729,12 +1729,11 @@ Podría haber algo.
 
 357
 00:15:35,485 --> 00:15:40,900
-[Se sorprenden repetidamente
-con el mismo zombi]
+[Los sigue asustando el mismo zombi]
 
 358
 00:15:40,900 --> 00:15:41,650
-Eso me asustó.
+Me asustó.
 
 359
 00:15:42,960 --> 00:15:46,060
@@ -1748,9 +1747,8 @@ Hay ocho tarjetas con códigos de patrón.
 
 361
 00:15:48,895 --> 00:15:51,880
-¿Las abrimos a todas?
-[Jimin y j-hope revisan
-la pista adecuadamente]
+¿Hay que abrirlas todas?
+[Revisan la pista con cuidado]
 
 362
 00:15:51,880 --> 00:15:54,265
@@ -1770,8 +1768,8 @@ Supongo que traje la pista de otro equipo.
 365
 00:16:00,481 --> 00:16:06,405
 - ¿En serio? / -Sí.
-[Confundidos porque no leyeron nada
-y tomaron pistas que encontraron]
+[Confundidos porque tomaron las pistas
+sin prestar atención a nada más]
 
 366
 00:16:06,405 --> 00:16:07,720
@@ -1789,7 +1787,7 @@ Me conoces.
 
 369
 00:16:13,040 --> 00:16:17,658
-[El equipo B gana contra el zombi
+[El equipo B la gana al zombi
 y entra a la sala]
 
 370
@@ -1815,20 +1813,20 @@ Claro, para ser uno de los zombis.
 
 375
 00:16:27,151 --> 00:16:28,549
-¡Está vacía!
-¡Dejen de hacer eso!
+¡Está vacío!
+¡Deja de hacer eso!
 [Es divertido...]
 
 376
 00:16:28,549 --> 00:16:30,360
 Nos esforzamos
-solo para encontrar una vacía.
+solo para encontrar un sobre vacío.
 [Se cubre]
 
 377
 00:16:30,360 --> 00:16:34,435
-¿Es este el lugar?
-[El equipo A llegó al siguiente escenario,
+¿Este es el lugar?
+[El equipo A llegó al siguiente nivel,
 Barras de acero]
 
 378
@@ -1841,7 +1839,7 @@ ADN.
 
 380
 00:16:39,900 --> 00:16:41,690
-¿"No coinciden los datos"?
+¿"Los datos no coinciden"?
 
 381
 00:16:43,085 --> 00:16:44,040
@@ -1940,11 +1938,11 @@ Ahí viene.
 
 401
 00:17:36,030 --> 00:17:37,860
-¿Encontraste un código de patrón?
+¿Encontraste un patrón de código?
 
 402
 00:17:37,860 --> 00:17:40,445
-No sé lo que tenemos que hacer.
+No sé qué tenemos que hacer.
 
 403
 00:17:40,445 --> 00:17:43,105
@@ -1956,8 +1954,8 @@ No hay nada.
 
 405
 00:17:44,952 --> 00:17:47,300
-Creo que estamos en el lugar equivocado.
-[No encuentran la pista que está ahí...]
+Creo que no es aquí.
+[No ven la pista frente a sus narices...]
 
 406
 00:17:47,300 --> 00:17:50,340
@@ -1972,7 +1970,7 @@ Estoy seguro.
 408
 00:17:52,960 --> 00:17:55,405
 No sabemos qué hacer
-porque las tarjetas están mezcladas.
+porque las tarjetas se mezclaron.
 [Las tarjetas están mezcladas]
 
 409
@@ -2012,7 +2010,8 @@ Creo que nos vieron.
 
 417
 00:18:29,330 --> 00:18:31,255
-Ese no es. Nosotros...
+Ese no es.
+Nosotros...
 
 418
 00:18:31,255 --> 00:18:35,025
@@ -2079,9 +2078,10 @@ Las encontré.
 Actor de método.
 
 432
-00:19:20,905 --> 00:19:22,368
-Estamos en el lugar equivocado.
-¿B?
+00:19:20,533 --> 00:19:22,367
+Es el lugar equivocado.
+¿Una B?
+[Ja, ja, ja]
 
 433
 00:19:22,368 --> 00:19:25,615
@@ -2155,8 +2155,8 @@ A, B, C, D, E, F...
 [Muy experimentado en salas de escape]
 
 448
-00:20:07,520 --> 00:20:10,885
-13, A. 43. uno
+00:20:07,520 --> 00:20:11,006
+13, A, 43, uno:
 [Pero no es bueno contando]
 
 449
@@ -2189,7 +2189,7 @@ Oye, esta es nuestra sala.
 
 455
 00:20:28,155 --> 00:20:29,720
-¿Estás en el curso cuatro?
+¿Estás en la ruta cuatro?
 [Confundido]
 
 456
@@ -2205,13 +2205,13 @@ Debemos encontrar la contraseña de la sala.
 458
 00:20:36,205 --> 00:20:37,970
 Pero no sabemos qué hacer.
-[Jung Kook presionó la tablet sin cuidado]
+[Jung Kook pulsó en la tablet sin cuidado]
 
 459
 00:20:37,970 --> 00:20:40,530
 No sabemos qué hacer.
 [Entonces, el equipo A
-fue al curso de B y C]
+tomó la ruta de B y C]
 
 460
 00:20:41,595 --> 00:20:42,685
@@ -2223,13 +2223,12 @@ Miembros, reúnanse en el centro, por favor.
 
 462
 00:20:46,243 --> 00:20:47,853
-Los cursos están mezclados.
+Las rutas están mezcladas.
 
 463
 00:20:47,853 --> 00:20:49,880
 No pudimos resolver la misión.
-[Tres equipos
-no pudieron resolver la misión]
+[Los tres equipos fallaron en la misión]
 
 464
 00:20:49,880 --> 00:20:53,950
@@ -2243,7 +2242,7 @@ Fuimos al lugar equivocado.
 
 466
 00:20:57,370 --> 00:21:01,050
-Debíamos mantenernos en el curso.
+Debíamos mantenernos en la ruta.
 [Decepcionado]
 
 467
@@ -2263,7 +2262,7 @@ Estaban todos vacíos.
 
 470
 00:21:08,805 --> 00:21:10,530
-Ni siquiera pudimos al B.
+Ni siquiera pudimos entrar al B.
 
 471
 00:21:11,310 --> 00:21:14,890
@@ -2290,7 +2289,7 @@ y mezclamos las pistas.
 475
 00:21:23,341 --> 00:21:28,120
 [Todos los equipos fallaron la misión]
-[Escaparán por el escenario de láser]
+[Escaparán por la sala de láser]
 
 476
 00:21:28,120 --> 00:21:29,955
@@ -2481,12 +2480,12 @@ Muy difícil.
 517
 00:23:10,380 --> 00:23:11,940
 Salimos de todos modos...
-[Dicen hechos]
+[Dice la verdad]
 [Salieron sin grandes hazañas]
 
 518
 00:23:12,490 --> 00:23:13,960
-Conseguí muchos ítems.
+Conseguí muchas cosas.
 [Recogió utilería al azar]
 
 519
@@ -2528,12 +2527,11 @@ Nada.
 526
 00:23:29,741 --> 00:23:32,160
 Debíamos descifrar la contraseña.
-[Solo debían encontrar
-la entrada a un conducto]
+[Solo debían hallar la entrada al conducto]
 
 527
 00:23:32,160 --> 00:23:34,650
-Encontramos uno, dos, tres, cuatro...
+Encontramos una, dos, tres, cuatro...
 [El resultado del equipo A]
 
 528
@@ -2560,12 +2558,12 @@ pero estábamos apurados.
 532
 00:23:43,721 --> 00:23:46,870
 Por último, pueden jugar
-al congelado con los zombis.
+a los congelados con los zombis.
 [Run BTS: BTS vs. Zombis]
 
 533
 00:23:46,870 --> 00:23:51,070
-[Última ronda: Congelado con los zombis]
+[Última ronda: Congelados con los zombis]
 para conseguir más entradas gratis ocultas.
 
 534
@@ -2595,17 +2593,17 @@ Sigue diciendo "Ehh..."
 
 539
 00:24:04,475 --> 00:24:07,275
-El último juego es el congelado
+El último juego son los congelados
 con los zombis.
 
 540
 00:24:07,275 --> 00:24:08,376
-[Run BTS: BTS vs. Zombis Ronda tres]
+[Run BTS: BTS vs. Zombis Ronda Tres]
 
 541
-00:24:08,376 --> 00:24:09,866
-[Jueguen al congelado con los zombis
-y encuentren más entradas gratis ocultas]
+00:24:08,376 --> 00:24:09,994
+[Jueguen a los congelados con los zombis
+y encuentren más entradas gratis]
 
 542
 00:24:10,648 --> 00:24:13,902
@@ -2614,9 +2612,8 @@ cuando un zombi se acerca]
 
 543
 00:24:13,902 --> 00:24:17,094
-[Pero no se pueden mover
-hasta que otro miembro
-les ponga un sticker de "Descongelar"]
+[Pero solo se pueden mover si otro miembro
+les pone un sticker de "Descongelar"]
 
 544
 00:24:17,094 --> 00:24:19,585
@@ -2709,7 +2706,7 @@ Corramos luego del canto.
 
 562
 00:24:57,483 --> 00:25:00,062
-[El nombre que hace correr hasta a SUGA]
+[La palabra que hace correr hasta a SUGA]
 
 563
 00:25:00,062 --> 00:25:02,454
@@ -2767,12 +2764,12 @@ Uno... ¿Cómo cuento?
 575
 00:25:45,500 --> 00:25:48,130
 Descongelado.
-[Golden Maknae] [Jung Kook está
-ocupado tocando a los miembros]
+[Golden Maknae]
+[Jung Kook está ocupado descongelándolos]
 
 576
 00:25:48,130 --> 00:25:49,560
-[Soplido]
+[Uff, uff]
 
 577
 00:25:49,975 --> 00:25:52,980
@@ -2807,7 +2804,7 @@ Zombi...
 
 584
 00:26:22,426 --> 00:26:24,924
-[Este trabaja duro hoy]
+[Él trabaja duro hoy]
 
 585
 00:26:24,924 --> 00:26:26,464
@@ -2835,7 +2832,7 @@ para encontrar más entradas para ARMY]
 590
 00:26:38,240 --> 00:26:41,185
 - Ay, no.
-- ¿Por qué los traes para mi lado?
+- ¿Por qué los traes a mi lado?
 
 591
 00:26:41,185 --> 00:26:43,528
@@ -2865,12 +2862,12 @@ No te acerques.
 
 597
 00:26:57,620 --> 00:26:59,340
-Congelado. Congelado.
+Congelado, congelado.
 Por favor, vete. Dije "Congelado".
 
 598
 00:26:59,960 --> 00:27:03,315
-¡Está vacío]
+[Está vacío]
 [Arroja]
 
 599
@@ -2901,7 +2898,7 @@ No encuentro ninguno.
 605
 00:27:24,780 --> 00:27:28,004
 Ahí está.
-[¿Por qué no encuentras ninguno, RM?
+[¿Por qué no encuentras ninguno, RM?]
 
 606
 00:27:28,705 --> 00:27:30,210
@@ -2968,7 +2965,7 @@ mientras estaba congelado]
 
 620
 00:28:17,250 --> 00:28:18,540
-[Lo veo por un segundo]
+[Lo ojea]
 
 621
 00:28:18,540 --> 00:28:22,555
@@ -2988,7 +2985,7 @@ Qué felicidad.
 
 624
 00:28:30,135 --> 00:28:32,455
-[Jin descongelará a Jimin que está
+[Jin descongelará a Jimin, que está
 emocionado por encontrar entradas]
 
 625
@@ -3011,7 +3008,7 @@ emocionado por encontrar entradas]
 
 629
 00:28:42,595 --> 00:28:44,075
-[Falso]
+[Esquiva]
 
 630
 00:28:44,922 --> 00:28:46,733
@@ -3044,18 +3041,17 @@ en la formación de apertura.
 
 636
 00:29:11,515 --> 00:29:13,275
-Bien.
-Jin.
+Bien, eso.
 
 637
 00:29:13,275 --> 00:29:15,560
-Soy yo.
-Jin sticker.
+Soy Jin.
+Ten mi sticker.
 [Hola, me llamo Jin]
 
 638
 00:29:15,580 --> 00:29:18,730
-Worldwide Handsome.
+Soy yo, el Worldwide Handsome.
 
 639
 00:29:19,925 --> 00:29:22,820
@@ -3102,7 +3098,7 @@ Fue nuestra derrota total.
 647
 00:29:39,050 --> 00:29:40,722
 - Los zombis no deberían ser reales.
-- Danos armas.
+- Dennos armas.
 [Los humanos no vencerían a los zombis]
 
 648
@@ -3201,13 +3197,12 @@ Descongelé a muchos.
 
 667
 00:30:24,490 --> 00:30:28,365
-- Como ven su espalda...
+- Como ven en su espalda...
 - Descongelaste a Hobi también.
 
 668
 00:30:28,365 --> 00:30:29,866
-[Los stickers de SUGA
-para descongelar a los demás]
+[Los muchos stickers de SUGA]
 
 669
 00:30:29,890 --> 00:30:31,045
@@ -3215,7 +3210,7 @@ Descongelé muchas veces...
 
 670
 00:30:31,070 --> 00:30:32,700
-- Sanador.
+- El sanador.
 - Espera.
 
 671
@@ -3248,7 +3243,7 @@ SUGA nunca me descongeló.
 
 677
 00:30:41,899 --> 00:30:44,794
-- Reprodúcelo.
+- Veamos la repetición.
 - ¿Ven? Lo descongelé.
 
 678
@@ -3258,9 +3253,9 @@ Bien.
 
 679
 00:30:46,394 --> 00:30:48,144
-- Nada.
+- Ninguna.
 - Cero para Jung Kook.
-[Jung Kook que corrió consiguió cero]
+[Jung Kook corrió, pero consiguió cero]
 
 680
 00:30:48,144 --> 00:30:50,024
@@ -3299,8 +3294,7 @@ Es hora de anunciar
 687
 00:31:02,676 --> 00:31:04,375
 la cantidad final de entradas gratis.
-[¿Cuántas entradas consiguió
-BTS para ARMY?]
+[¿Cuántas consiguieron para ARMY?]
 
 688
 00:31:04,401 --> 00:31:07,213
@@ -3377,17 +3371,17 @@ Démosle stickers.
 702
 00:31:41,755 --> 00:31:43,380
 - Encontramos muchas.
-- Es cierto
+- Es cierto.
 
 703
 00:31:43,380 --> 00:31:47,240
-Seis miembros excepto Jin pagarán
+Seis miembros, excepto Jin, pagarán
 seis entradas más.
 [Agreguemos seis entradas para hacer 40]
 
 704
 00:31:47,240 --> 00:31:48,790
-Seis miembros excepto Jin.
+Seis miembros, excepto Jin.
 [Los demás excepto Jin
 agregan seis para sumar 40]
 
@@ -3398,8 +3392,7 @@ a los fans afortunados que las recibirán]
 
 706
 00:31:50,812 --> 00:31:52,531
-[Bebida especial
-de Noche de Brujas para Jin]
+[Bebida especial de Noche de Brujas para Jin]
 
 707
 00:31:52,531 --> 00:31:54,911
@@ -3435,8 +3428,7 @@ pagará seis entradas.
 713
 00:32:06,481 --> 00:32:09,361
 Con zombis geniales y hermosos
-[En Everland, el mundo del sueño
-y la fantasía]
+[En Everland, el mundo de sueños y fantasías]
 
 714
 00:32:09,361 --> 00:32:10,806
@@ -3453,7 +3445,7 @@ Me alegra que podamos dar
 00:32:12,362 --> 00:32:14,678
 34 entradas a ARMY.
 Gracias.
-[(+Seis entradas donadas por los miembros)]
+[(Más seis entradas donadas por los miembros)]
 
 717
 00:32:14,892 --> 00:32:16,950
@@ -3466,5 +3458,5 @@ Gracias.
 
 719
 00:32:21,212 --> 00:32:22,936
-Da tanto miedo
+Da mucho miedo.
 
