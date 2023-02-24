@@ -2243,7 +2243,7 @@ somos nosotros.
 00:17:50,494 --> 00:17:52,696
 Estaban tan confiados.
 [Comentario desalmado]
-[El equipo Rojo es...]
+[No tuvieron más que confianza]
 
 451
 00:17:52,721 --> 00:17:54,822
@@ -2301,7 +2301,7 @@ Juguemos la última ronda con carritos.
 
 462
 00:18:17,936 --> 00:18:19,766
-Juguemos una partida de ítem.
+Juguemos una partida de ítems.
 
 463
 00:18:19,766 --> 00:18:21,235
@@ -2310,7 +2310,7 @@ Decidan.
 
 464
 00:18:21,260 --> 00:18:22,841
-- Juguemos una partida de ítem.
+- Juguemos una partida de ítems.
 - Depende de ti.
 
 465
@@ -2371,786 +2371,788 @@ Ese personaje está en el aire.
 [El auto de RM está en el aire]
 
 476
-00:18:44,852 --> 00:18:47,037
-- ¿Qué es eso?
-- Es una escoba. Genial, ¿no?
+00:18:44,852 --> 00:18:46,208
+¿Qué es eso?
+- Una escoba.
 
 477
+00:18:46,233 --> 00:18:46,803
+Genial, ¿no?
+
+478
 00:18:48,623 --> 00:18:50,361
 ¿Es un Rolls-Royce?
 [Sorprendido]
 
-478
+479
 00:18:50,386 --> 00:18:52,202
 Apareció un jeep.
 [El auto de V es enorme]
 
-479
+480
 00:18:52,227 --> 00:18:54,373
 [Le encanta]
 [Los juegos se tratan de los ítems]
 
-480
+481
 00:18:54,373 --> 00:18:57,915
 Esperen.
 Tenemos que apostar.
 [¡El último juego!]
 
-481
+482
 00:18:58,208 --> 00:18:59,699
 ¿Qué apostamos?
 [Serio]
 
-482
+483
 00:18:59,699 --> 00:19:02,889
 Si perdemos, les haremos un masaje
 a los miembros del equipo ganador.
 
-483
+484
 00:19:03,646 --> 00:19:04,455
 No estoy interesado.
 [No me interesa]
 
-484
+485
 00:19:04,480 --> 00:19:05,901
 ¿Qué te pasa?
 [Sorprendido]
 
-485
+486
 00:19:07,647 --> 00:19:09,724
 Soy comentarista del juego.
 [Bromea]
 
-486
+487
 00:19:09,749 --> 00:19:11,918
 Ya que iremos directo a casa.
 [La sugerencia de Jimin]
 
-487
+488
 00:19:11,918 --> 00:19:15,033
 No, tenemos que cambiarnos de ropa.
-[¿Y una ducha?] [Sacude la cabeza]
-
-488
-00:19:15,033 --> 00:19:18,248
-- Hagamos algo divertido / -¿Ducha?
-- ¿Qué hay de eso?
-[Interesado]
+[¿Qué tal una ducha?] [Sacude la cabeza]
 
 489
+00:19:15,033 --> 00:19:18,248
+- Hagamos algo divertido / -¿Ducha?
+- ¿Qué tal?
+[Interesado]
+
+490
 00:19:18,248 --> 00:19:19,634
 Iremos directo a casa de todos modos.
 [Persuade]
 
-490
+491
 00:19:19,659 --> 00:19:21,978
 - Hagamos eso.
-- ¡uno de tres!
-[Caen con la sugerencia de Jimin]
+- ¡Uno de tres!
+[Les gusta la sugerencia de Jimin]
 
-491
+492
 00:19:21,978 --> 00:19:24,240
 - Bien, una ducha con botella de agua.
 - ¡Vamos!
 
-492
+493
 00:19:24,265 --> 00:19:26,918
 Entonces, jueguen individualmente.
 [Suena divertido]
 
-493
+494
 00:19:26,918 --> 00:19:29,604
 - ¿Partida individual?
 - El último recibe el castigo.
 [Suena mejor]
 
-494
+495
 00:19:29,629 --> 00:19:31,948
 - ¡Hagámoslo!
 - ¡El perdedor de la partida individual!
 
-495
+496
 00:19:31,948 --> 00:19:35,661
 [Ronda extra: KartRider - partida de ítem]
-[Los miembros competirán
-de manera individual]
+[Competirán de forma individual]
 
-496
+497
 00:19:35,661 --> 00:19:38,826
 [El último bailará "Blood, Sweat & Tears"
 mientras lo mojan con agua]
 
-497
+498
 00:19:38,953 --> 00:19:40,558
 - ¿Listos?
 - ¡Listos!
 [Los miembros están listos]
 
-498
+499
 00:19:40,558 --> 00:19:41,573
 ¡Vamos!
 
-499
+500
 00:19:41,573 --> 00:19:43,978
 [Muy nervioso]
 [Mucha tensión]
 
-500
-00:19:43,978 --> 00:19:45,222
-[Se corre el cabello]
-
 501
+00:19:43,978 --> 00:19:45,222
+[Se peina el cabello]
+
+502
 00:19:45,222 --> 00:19:47,168
 ¡Alguien se va a mojar!
 [Emocionado]
 [Emocionado por ver el castigo]
 
-502
+503
 00:19:47,168 --> 00:19:49,043
 No hay que ser el último.
 [Cualquiera menos yo]
 
-503
+504
 00:19:49,355 --> 00:19:51,439
 Esperen.
 No tengo mascota.
 [Jin está triste porque no tiene mascota]
 
-504
+505
 00:19:51,439 --> 00:19:54,955
 ¡Empecemos!
 [Lo ignoran]
 
-505
+506
 00:19:55,431 --> 00:19:57,396
 ¡Allá vamos, gente!
 
-506
+507
 00:19:57,529 --> 00:20:01,087
 Están corriendo con los ítems
 del 13º aniversario.
 [Comentario]
 
-507
+508
 00:20:01,112 --> 00:20:02,720
 ¿Qué?
 ¿Muerte por caída?
 [Jung Kook saltó al agua]
 
-508
+509
 00:20:02,720 --> 00:20:04,835
 ¡Es tu culpa, Jung Kook!
 [Jin se ahogó luego de Jung Kook]
 
-509
+510
 00:20:04,835 --> 00:20:06,970
 Lo siento, perdón
-[El Pied Piper Jung Kook, sígueme]
+[Jung Kook es el flautista de Hamelín]
 
-510
+511
 00:20:06,970 --> 00:20:09,316
 - j-hope es el último.
 - ¿Qué es esto?
 [Je, je]
 
-511
+512
 00:20:09,341 --> 00:20:10,989
 - ¿Qué?
 - ¿Qué es esto?
 [Sorprendido]
 
-512
+513
 00:20:11,014 --> 00:20:14,275
 - ¿Qué es esto?
 - Soy el sexto.
 [Hace un escándalo] [Sorprendido]
 
-513
+514
 00:20:14,300 --> 00:20:15,448
 ¡No puede ser!
 
-514
+515
 00:20:17,416 --> 00:20:19,837
 - Ay, lo arruiné.
 - ¿Qué es esto?
 [¿Qué está pasando?]
 
-515
+516
 00:20:19,988 --> 00:20:21,857
 - Estoy en problemas.
 - ¿Qué?
 
-516
+517
 00:20:21,857 --> 00:20:25,350
 - ¿Qué?
 - ¡Ay, no!
 [SUGA ríe y los miembros están perplejos]
 
-517
+518
 00:20:25,375 --> 00:20:27,021
 ¿Qué es esto?
 
-518
+519
 00:20:27,021 --> 00:20:28,016
 [¿Qué está pasando?]
 
-519
+520
 00:20:28,016 --> 00:20:31,524
 - Ay, no.
 - ¿Qué es esto?
 
-520
+521
 00:20:31,650 --> 00:20:34,517
 - ¿Qué es esto?
 - ¿Qué?
 
-521
+522
 00:20:34,517 --> 00:20:36,782
 Debimos haber elegido este mapa.
 [¡Este mapa es el mejor!]
 
-522
+523
 00:20:36,782 --> 00:20:40,762
 - ¡Oye!
 - Nos está bloqueando.
 
-523
+524
 00:20:40,787 --> 00:20:42,544
 - Espera.
 - ¿Qué es esto?
 [RM nervioso]
 
-524
-00:20:42,569 --> 00:20:44,597
-La partida individual es más divertida
-que la grupal.
-[La partida individual es más feroz]
-
 525
+00:20:42,569 --> 00:20:44,597
+La partida individual
+es más divertida que la grupal.
+[La individual es más feroz]
+
+526
 00:20:45,161 --> 00:20:47,222
 ¡Por favor, no quiero ser el último!
 
-526
+527
 00:20:47,222 --> 00:20:49,202
 Lo siento, estoy en sexto lugar.
 [Se disculpa consigo mismo]
 
-527
+528
 00:20:50,282 --> 00:20:52,239
 Solo te lo debes a ti.
 [Es una partida individual]
 
-528
-00:20:52,239 --> 00:20:54,049
-Lo siento, yo mismo. Soy el sexto.
-[RM se disculpa consigo mismo
-en el futuro]
-
 529
-00:20:54,049 --> 00:20:56,184
-[j-hope y Jung Kook son número uno y número dos]
+00:20:52,239 --> 00:20:54,049
+Lo siento, yo mismo.
+Soy el sexto.
+[RM se disculpa con su yo del futuro]
 
 530
+00:20:54,049 --> 00:20:56,184
+[j-hope y Jung Kook son número uno y dos]
+
+531
 00:20:56,184 --> 00:20:59,245
 ¡Jung Kook!
 [Jung Kook empujó a j-hope al agua]
 [¡No!]
 
-531
+532
 00:20:59,270 --> 00:21:02,390
 - Me engañó.
 - ¡Jeon Jung Kook!
 [Muy relajado]
 
-532
+533
 00:21:02,828 --> 00:21:04,515
 j-hope y RM...
 
-533
+534
 00:21:04,515 --> 00:21:06,751
-No puede ser. No seré el último
+No puede ser.
+No seré el último.
 [Por favor, no quiero que me mojen]
 
-534
+535
 00:21:06,776 --> 00:21:08,580
 - j-hope va de sexto.
 - Allá voy.
 [El as j-hope va último actualmente]
 
-535
+536
 00:21:08,580 --> 00:21:12,879
 - ¡Allá voy!
 - Pero te agarré.
 [RM juega KartRider con la voz]
 
-536
+537
 00:21:13,349 --> 00:21:16,114
 ¡No!
 [Gritos desde todos lados]
 
-537
+538
 00:21:16,593 --> 00:21:20,013
 - ¡Por favor!
 - ¡No!
 
-538
+539
 00:21:20,038 --> 00:21:22,893
 Te agarré.
 [RM] [¡Hora del robot limpiador!]
 
-539
+540
 00:21:22,893 --> 00:21:24,688
 Te agarré.
 [Entraste a la sección congestionada]
 
-540
+541
 00:21:24,688 --> 00:21:27,568
 - ¡No!
 - ¡Ayuda!
 [Jimin queda atrás por el robot]
 
-541
-00:21:28,116 --> 00:21:31,513
-¡No!
-[Grita]
-
 542
-00:21:31,513 --> 00:21:32,820
+00:21:28,116 --> 00:21:31,478
 ¡No!
 [Grita]
 
 543
+00:21:31,513 --> 00:21:32,820
+¡No!
+[¡Que no!]
+
+544
 00:21:33,465 --> 00:21:36,101
 - ¡Jimin es el último!
 - ¡No!
 [Adiós, amigo] [Echa sal a la herida]
 
-544
+545
 00:21:36,126 --> 00:21:38,819
 ¡Por favor!
 
-545
+546
 00:21:38,844 --> 00:21:41,128
 ¿Qué es este fantasma?
 [Grita]
 
-546
+547
 00:21:41,128 --> 00:21:42,908
 No quiero que me mojen.
 
-547
+548
 00:21:42,908 --> 00:21:44,826
 Estoy agradecido por ser el cuarto.
 [Gracias]
 
-548
+549
 00:21:44,851 --> 00:21:47,557
 ¡Soy el ganador!
-[¡Lo logré! ¡Soy el número 1!]
+[¡Lo logré! ¡Soy el número uno!]
 
-549
+550
 00:21:47,884 --> 00:21:50,095
 [Como si estuvieran en una montaña rusa]
 
-550
+551
 00:21:50,095 --> 00:21:51,582
 [j-hope llegó segundo]
 [Qué desastre]
 
-551
+552
 00:21:51,582 --> 00:21:54,151
 ¡Número tres!
 [¡Por favor, el tercero!]
 
-552
-00:21:55,488 --> 00:21:57,009
-[Número tres, cuatro, cinco - RM, V, Jung Kook
-están excluidos del castigo]
-
 553
+00:21:55,488 --> 00:21:57,009
+[Tres, cuatro y cinco, RM, V y Jung Kook
+se salvan del castigo]
+
+554
 00:21:57,009 --> 00:21:59,394
 ¡No!
 [Es un grito desesperado de Jimin,
 que no pudo terminar la carrera]
 
-554
+555
 00:21:59,394 --> 00:22:01,179
 [No pudo terminar la carrera]
 
-555
+556
 00:22:01,179 --> 00:22:03,169
 Te dije que serías tú.
 [Humor festivo]
 
-556
+557
 00:22:03,169 --> 00:22:06,194
 Al final...
 [¿Es cierto? ¿Soy el último?]
 
-557
+558
 00:22:06,194 --> 00:22:07,768
 ¡¿Qué era ese fantasma?!
 [Grita]
 
-558
+559
 00:22:07,793 --> 00:22:08,706
 [No soy un fantasma...
 Soy el robot limpiador]
 
-559
-00:22:10,049 --> 00:22:11,937
-¿Qué era el fantasma al final?
-
 560
+00:22:10,049 --> 00:22:11,937
+¿Qué fue ese fantasma al final?
+
+561
 00:22:12,536 --> 00:22:14,833
-- ¿Qué era ese fantasma?
+- ¿Qué fue ese fantasma?
 - Jimin, ibas a la cabeza.
 [Jimin era el número uno]
 
-561
+562
 00:22:14,858 --> 00:22:16,613
 Intenté seguir el camino
 
-562
+563
 00:22:16,613 --> 00:22:19,516
 - pero me arrinconó.
 - Está bien.
 [Recrea la escena]
 
-563
+564
 00:22:19,541 --> 00:22:22,099
 Entonces, Jimin se empapará.
 [El que propuso el castigo]
 
-564
+565
 00:22:23,872 --> 00:22:25,422
 [Su espalda triste]
 
-565
-00:22:27,139 --> 00:22:28,933
-Por favor, elijan uno.
-[Jin, Jimin, Jung Kook eligen
-un castigo por la partida en equipo]
-
 566
+00:22:27,139 --> 00:22:28,933
+Elijan uno.
+[El equipo perdedor elige su castigo]
+
+567
 00:22:28,933 --> 00:22:31,573
 - El equipo perdedor...
 - ¿Esto es por la partida en equipo?
 [Ay]
 
-567
+568
 00:22:31,682 --> 00:22:34,827
 - Debemos elegir el castigo.
 - Elijamos cualquiera.
 
-568
+569
 00:22:35,062 --> 00:22:37,563
 Jimin, ábrelo.
 [¿Cuál es el castigo de Jimin?]
 
-569
+570
 00:22:39,390 --> 00:22:41,296
 Limpiar luego de que coman
 los ganadores...
 [Lo arroja al suelo]
 
-570
+571
 00:22:42,433 --> 00:22:45,903
 - Jimin limpiara después de mojarse.
 - Ay, pobre.
 
-571
+572
 00:22:45,903 --> 00:22:47,913
 Tiraré comida por todos lados.
-[Molesta a Jimin uno]
-
-572
-00:22:47,933 --> 00:22:49,893
-Tiremos comida al suelo.
-[Molesta a Jimin uno] [No te oigo]
+[Molesta a Jimin]
 
 573
+00:22:47,933 --> 00:22:49,893
+Tiremos comida al suelo.
+[Molesta a Jimin] [No te oigo]
+
+574
 00:22:51,263 --> 00:22:54,553
 Qué maldad. Se ve muy bueno.
 [Premio para el equipo ganador:
 ¡Patbingsu!]
 
-574
+575
 00:22:54,578 --> 00:22:56,373
 ¡Se ve delicioso!
 [Se acerca como hechizado]
 
-575
+576
 00:22:56,373 --> 00:22:57,718
 ¿Qué música quieres?
 [Castigo]
 
-576
+577
 00:22:57,718 --> 00:22:59,520
 "Blood, Sweat & Tears".
 Una sexi.
 [Luego el productor dice]
 
-577
+578
 00:22:59,545 --> 00:23:00,874
 Jimin, muéstranos algo sexi.
 [Inocente]
 
-578
+579
 00:23:02,021 --> 00:23:05,786
 ¿Disfrutaron el juego de hoy?
 Ya que ganamos
 [Comentario]
 
-579
+580
 00:23:06,410 --> 00:23:09,042
 disfrutaremos este snack
 y hablaremos de cómo nos sentimos.
 
-580
+581
 00:23:09,067 --> 00:23:10,988
 Sí, el equipo de Jin siempre pierde.
 
-581
+582
 00:23:11,988 --> 00:23:13,833
 - Cierto.
 - El equipo de Jin siempre pierde.
 [Triste]
 
-582
+583
 00:23:13,833 --> 00:23:17,673
 - Así es nuestro Kim Seokjin.
 - Me río mucho en "Run BTS".
 
-583
+584
 00:23:17,673 --> 00:23:19,338
 - Es muy divertido.
 - Hay muchas situaciones graciosas.
 [Satisfecho]
 
-584
+585
 00:23:19,338 --> 00:23:22,906
 - Si estás en el equipo de Jin, perderás.
 - En realidad, hacía rato
 
-585
+586
 00:23:22,931 --> 00:23:26,288
 que no jugamos todos juntos.
 Aunque SUGA fuera el animador.
 [Ñam, ñam]
 
-586
+587
 00:23:26,288 --> 00:23:27,572
 Creo que por eso fue divertido.
 
-587
+588
 00:23:27,597 --> 00:23:29,473
 Jimin, por favor, despídete
-[El momento del inevitable castigo
-de Jimin]
+[Llega el inevitable castigo de Jimin]
 
-588
+589
 00:23:29,473 --> 00:23:31,890
 y termina esto con tu castigo.
 
-589
+590
 00:23:31,986 --> 00:23:34,336
 Disfruté mucho el juego de hoy.
 
-590
+591
 00:23:34,361 --> 00:23:36,853
 - Aprendí una gran lección.
 - No se dejen llevar.
 
-591
-00:23:36,853 --> 00:23:38,783
-Quédense quietos.
-[Lección aprendida hoy: Quedarse quieto]
-
 592
+00:23:36,853 --> 00:23:38,783
+No abran la boca.
+[Lección de hoy: No abrir la boca]
+
+593
 00:23:39,227 --> 00:23:41,282
-Si te hubieras quedado quieto,
+Si te hubieras quedado en silencio,
 este castigo no existiría.
 [Bromea]
 
-593
+594
 00:23:41,282 --> 00:23:43,272
-No digamos nada.
+No digan nada.
 [No abras la boca, por Jimin]
 
-594
+595
 00:23:43,272 --> 00:23:44,672
 Esa es la lección que aprendí hoy.
 
-595
+596
 00:23:45,104 --> 00:23:47,132
 Entonces, el último castigo.
-[Por favor, muestren el castigo]
+[Por favor, hagan el castigo]
 
-596
+597
 00:23:47,132 --> 00:23:49,177
-- Música, señal.
+- Que empiece la música.
 - Ni siquiera me dan un bocado.
 [Jimin posa]
 
-597
+598
 00:23:49,177 --> 00:23:50,796
 - ¿Pondrán música?
 - ¿En serio?
 [¿Eh?]
 
-598
+599
 00:23:51,808 --> 00:23:53,405
 - ¿Qué?
 - Empecemos de nuevo.
 
-599
+600
 00:23:53,430 --> 00:23:55,403
-Estoy muy nervioso ahora.
+Estoy muy nervioso.
 [Muy nervioso]
 
-600
+601
 00:23:55,403 --> 00:23:57,408
 Pónganla fuerte.
 [Para él]
 
-601
+602
 00:23:58,745 --> 00:24:00,069
 [Ansiamos ver tu castigo, Jimin]
 
-602
+603
 00:24:01,437 --> 00:24:06,273
 [Blood, Sweat & Tears]
 
-603
+604
 00:24:08,125 --> 00:24:11,368
 [Público satisfecho]
 
-604
+605
 00:24:11,393 --> 00:24:14,423
 - Rayos.
 - ¡Jimin!
 [Máquina de bailar]
 
-605
+606
 00:24:14,423 --> 00:24:16,378
 [Uno, dos, uno, dos]
 
-606
+607
 00:24:18,376 --> 00:24:19,185
 Tienes que bailar.
 [Se ríe fuerte]
 
-607
+608
 00:24:19,210 --> 00:24:21,689
 ¡Ya viene lo mejor!
 [Jimin, ¡muéstranos lo que tienes!]
 
-608
+609
 00:24:21,689 --> 00:24:24,204
 ¡Qué sexi!
 [Máquina de bailar, ¡soy Jimin de BTS!]
 
-609
+610
 00:24:24,229 --> 00:24:26,434
 Ten cuidado, resbala.
 [Jimin se ve bien incluso mojado]
 
-610
+611
 00:24:26,434 --> 00:24:28,149
 Se ve genial.
 Como una escena de un video musical.
 
-611
+612
 00:24:28,149 --> 00:24:30,334
 Es como una escena de un video musical.
 [Ya no soy tierno]
 
-612
+613
 00:24:30,334 --> 00:24:32,893
 - Jimin.
-- Uh.
+- Oh.
 
-613
+614
 00:24:33,150 --> 00:24:35,550
 - Solo Jimin puede hacer esto.
 - Genial.
 [Puchero]
 
-614
+615
 00:24:35,575 --> 00:24:38,797
 - Yo nunca podría haberlo hecho.
 - Cierto.
 [Aplausos]
 
-615
-00:24:38,797 --> 00:24:41,016
-¡Nos vemos la próxima vez en "Run BTS"!]
-
 616
+00:24:38,797 --> 00:24:41,016
+¡Nos vemos a la próxima en "Run BTS"!]
+
+617
 00:24:41,041 --> 00:24:42,552
 ¡Adiós!
 
-617
+618
 00:24:43,587 --> 00:24:45,570
 Tengo agua en el ojo.
 [Puchero]
 
-618
+619
 00:24:47,190 --> 00:24:49,071
 - Disfruta.
 - Estuvo delicioso.
 [El equipo Rojo limpia el estudio]
 
-619
+620
 00:24:49,071 --> 00:24:52,206
 ¿Por qué comiste esto?
 [Jung Kook estaba comiendo patbingsu]
 
-620
+621
 00:24:52,206 --> 00:24:54,614
 - Estás en el equipo perdedor.
-- SUGA dijo que podía.
+- SUGA dijo que lo probara.
 
-621
+622
 00:24:54,614 --> 00:24:57,290
 No estoy en este equipo.
 [Jim-nicienta]
 
-622
+623
 00:24:58,537 --> 00:25:01,212
 Limpien el lugar.
-Pueden comen las sobras.
+Pueden comer las sobras.
 [Los ganadores se van primero]
 
-623
+624
 00:25:01,212 --> 00:25:02,917
 - Asegúrense de que quede limpio.
 - Gracias.
 
-624
+625
 00:25:04,770 --> 00:25:06,928
 Soy bueno limpiando.
 [Da un bocado]
 
-625
+626
 00:25:07,273 --> 00:25:10,126
 [Lamentable]
 
-626
+627
 00:25:10,151 --> 00:25:11,716
 [Trabaja duro]
 
-627
+628
 00:25:13,373 --> 00:25:15,139
 Delicioso.
 
-628
+629
 00:25:15,215 --> 00:25:18,613
 [¡Nos vemos en el próximo episodio
 de "Run BTS"!]
 
-629
+630
 00:25:39,903 --> 00:25:43,013
 [Run BTS: Rey de los juegos]
 
