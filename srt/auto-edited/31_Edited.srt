@@ -1173,12 +1173,12 @@ llamado "Hermano mayor"?
 241
 00:08:16,041 --> 00:08:17,171
 - Perdieron.
-- ¿Nosotros ganamos uno punto?
+- ¿Nosotros ganamos un punto?
 
 242
 00:08:17,171 --> 00:08:18,621
-¡Uno punto!
-[El equipo Kim Seokjin gana uno punto]
+¡Un punto!
+[El equipo Kim Seokjin gana un punto]
 
 243
 00:08:18,621 --> 00:08:20,251
@@ -1189,7 +1189,7 @@ llamado "Hermano mayor"?
 00:08:20,251 --> 00:08:22,211
 El puntaje actual es 2:1.
 [Puntaje actual]
-[Lentes dos : Kim Seokjin uno]
+[Lentes 2:1 Kim Seokjin]
 
 245
 00:08:22,211 --> 00:08:24,111
@@ -1975,24 +1975,25 @@ No sé.
 
 404
 00:14:39,252 --> 00:14:41,115
-Ya me olvidé.
+Ya se me olvidó
 [Se queja]
 
 405
 00:14:41,115 --> 00:14:43,825
-- De verdad me olvidé.
-- Haz silencio, cállate.
-[¿Por qué eres tan serio...?]
+- De verdad lo olvidé.
+- Haz silencio.
+[¿Por qué tan serio...?]
 
 406
 00:14:43,825 --> 00:14:46,454
 Les restaré uno punto si hablan
-de ahora en más.
+de ahora en adelante.
 [Advertencia]
 
 407
 00:14:49,857 --> 00:14:51,720
-[Ve a dormir, Jung Kook]
+[
+[Duérmete, Jung Kook]
 
 408
 00:14:51,720 --> 00:14:54,776
@@ -2009,7 +2010,7 @@ Te restaré uno punto si continúas.
 
 411
 00:15:06,152 --> 00:15:10,092
-[BTS duerme bien y se retuerce]
+[BTS se mueve mientras duerme bien]
 
 412
 00:15:10,092 --> 00:15:12,686
@@ -2025,8 +2026,7 @@ Te restaré uno punto si continúas.
 
 415
 00:15:22,076 --> 00:15:24,535
-[Jung Kook,
-que está profundamente dormido]
+[Jung Kook, profundamente dormido]
 
 416
 00:15:25,755 --> 00:15:30,260
@@ -2042,7 +2042,7 @@ que está profundamente dormido]
 
 419
 00:15:41,995 --> 00:15:43,987
-[Jung Kook que estaba dando vueltas]
+[Jung Kook estaba dando vueltas]
 
 420
 00:15:50,335 --> 00:15:52,709
@@ -2050,12 +2050,11 @@ que está profundamente dormido]
 
 421
 00:15:56,057 --> 00:15:58,052
-[Jung Kook está contoneándose]
+[Jung Kook sigue dando vueltas]
 
 422
 00:15:59,974 --> 00:16:03,337
-[A SUGA esta situación
-le parece divertidísima]
+[A SUGA esto le parece divertidísimo]
 [Qué gracioso]
 
 423
@@ -2068,8 +2067,7 @@ le parece divertidísima]
 
 425
 00:16:13,117 --> 00:16:15,677
-[Todos duermen bien
-como si no hubiera pasado nada]
+[Todos duermen inalterados]
 [Menos él]
 
 426
@@ -2099,7 +2097,7 @@ Es hora de levantarse.
 
 432
 00:16:34,830 --> 00:16:37,050
-Es hora de levantarse, muchachos.
+Levántense.
 
 433
 00:16:38,520 --> 00:16:41,380
@@ -2247,7 +2245,7 @@ Incorrecto.
 
 463
 00:18:14,980 --> 00:18:16,695
-Tempo estuvo mal.
+El tempo estuvo mal.
 [El tempo era distinto, ¡reglas estrictas!
 [j-hope no sabe por qué]
 
@@ -2284,17 +2282,17 @@ Bueno.
 
 471
 00:18:40,675 --> 00:18:42,475
-- ¿Sabes la letra?
-- No la sabe para nada.
+- ¿Te sabes la letra?
+- No se la sabe.
 
 472
 00:18:42,475 --> 00:18:45,840
-Por favor, despierten a sus miembros.
+Por favor, despierten a los demás.
 
 473
 00:18:45,840 --> 00:18:49,165
 - Ahora.
-- Eso no es importante, ya soy lento.
+- Eso no importa, de por sí soy lento.
 [Debaten]
 
 474
@@ -2335,7 +2333,7 @@ Incorrecto.
 481
 00:19:21,430 --> 00:19:24,970
 El tono...
-Parece que no conoces la canción
+Parece que no conoces la canción.
 
 482
 00:19:24,970 --> 00:19:28,290
@@ -2361,12 +2359,12 @@ que no se dio cuenta de un error]
 
 487
 00:19:41,680 --> 00:19:44,625
-- Tienen que hacer eso también.
+- Tienen que hacer el coro también.
 - ¿Qué?
 
 488
 00:19:44,625 --> 00:19:47,510
-La duplicación, "tomate".
+El acompañamiento que repite "tomate".
 [¿Así?]
 
 489
@@ -2399,12 +2397,13 @@ Siéntense.
 
 495
 00:20:11,260 --> 00:20:13,835
-"Jugo" es la pista. Cinco, seis
+"Jugo" es la pista.
+Cinco, seis
 [¿Eh?] [¿Qué dice?]
 
 496
 00:20:13,835 --> 00:20:15,780
-Cinco, seis, siete, ocho.
+cinco, seis, siete, ocho.
 
 497
 00:20:22,005 --> 00:20:24,185
@@ -2465,7 +2464,7 @@ Jung Kook, el baño no está por ahí.
 
 508
 00:20:53,586 --> 00:20:56,086
-Jung Kook, ese no es el baño
+Jung Kook, ese no es el baño.
 [Lo sé]
 
 509
@@ -2489,7 +2488,7 @@ Kétchup.
 513
 00:21:15,765 --> 00:21:17,645
 [Jin en el medio del caos
-y todos los miembros estirando el cuello]
+y los miembros estiran el cuello]
 
 514
 00:21:17,645 --> 00:21:19,625
@@ -2521,11 +2520,11 @@ Cinco, seis, cinco, seis, siete, ocho.
 
 520
 00:21:46,640 --> 00:21:49,300
-Jjak.
+Cha.
 
 521
 00:21:49,320 --> 00:21:52,320
-Por fin es su primer intento
+Por fin es su primer intento.
 [Por fin, el primer intento de Jimin]
 
 522
@@ -2556,7 +2555,8 @@ El kétchup no se traga.
 
 528
 00:22:19,953 --> 00:22:23,538
-Aumentaré el tempo. Cinco, seis, cinco, seis, siete, ocho.
+Aumentaré el tempo.
+Cinco, seis, cinco, seis, siete, ocho.
 [El tempo se aceleró]
 
 529
@@ -2565,7 +2565,7 @@ Aumentaré el tempo. Cinco, seis, cinco, seis, siete, ocho.
 
 530
 00:22:29,615 --> 00:22:31,075
-[No están enojado, ¿no?]
+[No está enojado, ¿verdad?]
 
 531
 00:22:31,075 --> 00:22:33,890
@@ -2600,7 +2600,7 @@ Cinco, seis, cinco, seis, siete, ocho.
 
 537
 00:22:53,848 --> 00:22:55,583
-OttoOi
+Otto*i.
 [¿No lo sabes?]
 
 538
@@ -2614,11 +2614,11 @@ Cinco, seis, cinco, seis, siete, ocho.
 
 540
 00:23:05,705 --> 00:23:07,435
-OttoOi.
+Otto*i.
 
 541
 00:23:07,435 --> 00:23:09,670
-¿OttoOi?
+¿Otto*i?
 [¿Le creíste?]
 
 542
@@ -2627,7 +2627,7 @@ OttoOi.
 
 543
 00:23:11,880 --> 00:23:14,345
-- ¡Dijiste OttoOi!
+- ¡Dijiste Otto*i!
 - Iba a intentarlo.
 
 544
@@ -2638,7 +2638,7 @@ que nadie lo capta.
 
 545
 00:23:17,404 --> 00:23:19,324
-Servir estuvo cerca
+"Servir" estuvo cerca.
 
 546
 00:23:19,324 --> 00:23:22,064
@@ -2663,7 +2663,7 @@ Cinco, seis, cinco, seis, siete, ocho.
 550
 00:23:33,155 --> 00:23:35,135
 - Es muy difícil.
-- ¿Es similar a qué?
+- ¿A qué se parece?
 [¡Incorrecto!]
 
 551
@@ -2672,7 +2672,8 @@ Cinco, seis, cinco, seis, siete, ocho.
 
 552
 00:23:40,275 --> 00:23:42,450
-Es una sílaba. Allá vamos
+Es una sílaba.
+Vamos.
 
 553
 00:23:42,450 --> 00:23:45,365
@@ -2686,7 +2687,7 @@ Es tu primer intento, ¿no?
 
 555
 00:23:48,570 --> 00:23:50,490
-Siéntate, por favor
+Siéntate, por favor.
 [¡Su primer intento!!]
 
 556
@@ -2695,7 +2696,7 @@ Cinco, seis, cinco, seis, siete, ocho.
 
 557
 00:23:55,804 --> 00:23:58,419
-[Observa fijo a SUGA]
+[Mira fijamente a SUGA]
 
 558
 00:23:58,419 --> 00:24:00,489
@@ -2726,8 +2727,7 @@ y luego te dormiste de nuevo?
 
 564
 00:24:20,420 --> 00:24:21,935
-[Hace unos minutos...
-Cuando todos dormían]
+[Hace unos minutos... cuando dormían]
 
 565
 00:24:26,830 --> 00:24:30,250
@@ -2736,13 +2736,12 @@ Cuando todos dormían]
 
 566
 00:24:30,250 --> 00:24:32,630
-Dijo: "Ah" y se durmió
+Dijo: "Ah" y se volvió a dormir.
 
 567
 00:24:32,630 --> 00:24:36,005
 ¡Cinco, seis, cinco, seis, siete, ocho!
-[Está distante
-como si no se tratara de él]
+[Está distante, como si no fuera él]
 
 568
 00:24:36,005 --> 00:24:38,975
@@ -2754,7 +2753,7 @@ como si no se tratara de él]
 
 570
 00:24:43,385 --> 00:24:44,990
-- ¿No es eso?
+- ¿No es así?
 - ¿Aplauso?
 [SUGA se divierte mucho]
 
@@ -2797,7 +2796,7 @@ como si no se tratara de él]
 
 579
 00:25:01,590 --> 00:25:03,135
-No hice nada malo
+No hice nada malo.
 
 580
 00:25:04,135 --> 00:25:06,405
@@ -2840,12 +2839,13 @@ No hice nada malo
 588
 00:25:26,787 --> 00:25:30,900
 Por favor, haz silencio.
-[Incorrecto] [Alterado] [V lo arruinó
-porque SUGA estaba muy emocionado]
+[Incorrecto] [Alterado]
+[V lo arruinó porque SUGA se emocionó]
 
 589
 00:25:30,900 --> 00:25:34,200
-¿Yo? ¿Por qué? Me estoy divirtiendo mucho
+¿Yo? ¿Por qué?
+Me estoy divirtiendo mucho.
 
 590
 00:25:34,200 --> 00:25:36,820
@@ -2880,9 +2880,8 @@ porque SUGA estaba muy emocionado]
 
 596
 00:25:51,635 --> 00:25:53,395
-- Esa duplicación... / - ¿Hay más?
-[Los miembros están cansados
-de la duplicación]
+- Ese acompañámiento... / - ¿Hay más?
+[Están cansados del acompañámiento]
 
 597
 00:25:53,395 --> 00:25:57,095
@@ -2944,9 +2943,8 @@ al equipo Kim Seokjin]
 
 609
 00:26:27,900 --> 00:26:29,545
-Haz una ceremonia del ganador.
-[SUGA le da a j-hope la oportunidad
-de hacer una ceremonia del ganador]
+Haz una celebración de ganador.
+[SUGA da a j-hope la oportunidad celebrar]
 
 610
 00:26:29,545 --> 00:26:31,980
@@ -3089,8 +3087,7 @@ Estábamos hablando
 639
 00:27:48,410 --> 00:27:50,345
 de que "riquísimo" era la respuesta.
-[V sigue haciendo
-la ceremonia del ganador]
+[V sigue selebrando]
 
 640
 00:27:52,205 --> 00:27:54,290
@@ -3098,9 +3095,8 @@ la ceremonia del ganador]
 
 641
 00:27:54,290 --> 00:27:57,055
-Gana el equipo Lentes.
+Ganó el equipo Lentes.
 [El puntaje final es 4:3]
-[Ganó el equipo Lentes]
 
 642
 00:27:57,055 --> 00:27:58,355
@@ -3115,7 +3111,7 @@ deben usar la ropa de hoy
 644
 00:28:01,040 --> 00:28:05,220
 cuando nos vayamos a Macao.
-[Tour de Wings] [Desconectado]
+[Wings Tour] [Desconectado]
 
 645
 00:28:05,220 --> 00:28:07,265
@@ -3143,17 +3139,17 @@ No creo que él reciba el castigo.
 
 650
 00:28:18,015 --> 00:28:20,790
-Si elegí al equipo Kim Seokjin antes.
+Si resulta que elegí al equipo Kim Seokjin,
 [Repasa las reglas]
 
 651
 00:28:20,790 --> 00:28:24,770
-- Debo usar el estilo retro.
+- deberé usar el estilo retro.
 - Así es.
 
 652
 00:28:24,770 --> 00:28:26,415
-- Si elegí el equipo Lentes...
+- Y si elegí al equipo Lentes...
 - Entonces puedes usar
 
 653
@@ -3167,8 +3163,8 @@ Solo algo cómodo.
 
 655
 00:28:28,630 --> 00:28:31,505
-- Me cubriría la cara y usaría tapabocas...
-- Estás usando lentes ahora.
+- Me cubriré la cara y usaré tapabocas...
+- Llevas lentes ahora.
 [V anima a SUGA]
 
 656
@@ -3196,7 +3192,7 @@ Solo algo cómodo.
 661
 00:28:46,953 --> 00:28:49,203
 - Es buena idea.
-- Sí, hagámoslo.
+- Sí, hagámoslo así.
 
 662
 00:28:49,203 --> 00:28:52,318
@@ -3271,13 +3267,12 @@ con programas de variedades.
 676
 00:29:26,044 --> 00:29:28,969
 Le leo la mente al personal.
-[SUGA vuelve a su ser confiado]
+[SUGA recobra su confianza]
 
 677
 00:29:29,380 --> 00:29:32,600
 El "Run BTS" de hoy
-[El suertudo anfitrión SUGA
-se prepara para despedirse]
+[El suertudo anfitrión prepara la despedida]
 
 678
 00:29:32,600 --> 00:29:36,215
@@ -3313,7 +3308,7 @@ para Macao mañana.
 684
 00:29:50,331 --> 00:29:54,164
 [El equipo Kim Seokjin hará el castigo]
-[Se van para el tour de Wings en Macao]
+[Se van para el Wings Tour en Macao]
 
 685
 00:29:54,312 --> 00:30:01,968
@@ -3322,7 +3317,7 @@ luego de los suertudos SUGA y RM]
 
 686
 00:30:02,522 --> 00:30:07,103
-Terminé usando esto...
+Terminé usando esta ropa...
 
 687
 00:30:09,301 --> 00:30:10,998
@@ -3330,8 +3325,7 @@ Ven aquí.
 
 688
 00:30:14,158 --> 00:30:16,133
-[El equipo Kim Seokjin presume poses
-(Incluido Jimin)]
+[El equipo Seokjin posa (con Jimin)]
 
 689
 00:30:16,785 --> 00:30:18,781
@@ -3340,12 +3334,11 @@ Ven aquí.
 690
 00:30:20,313 --> 00:30:22,938
 ¡Uno, dos, tres!
-[El equipo Kim Seokjin
-se toma una foto grupal]
+[El equipo Seokjin se toma una foto grupal]
 
 691
 00:30:23,403 --> 00:30:24,974
-[Gente... Sonrían...]
+[Oigan... sonrían...]
 
 692
 00:30:26,549 --> 00:30:28,520
