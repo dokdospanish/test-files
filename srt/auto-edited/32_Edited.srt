@@ -1,15 +1,14 @@
 1
 00:00:21,620 --> 00:00:24,358
-[Run BTS:
-Por favor, cuiden a Papá Noel]
+[Run BTS: Por favor, cuida de Papá Noel]
 
 2
-00:00:24,588 --> 00:00:26,340
+00:00:24,588 --> 00:00:27,103
 ¡Run BTS!
 
 3
 00:00:31,251 --> 00:00:35,183
-Este es el famoso.
+¿Este es el famoso
 "Museo de Robot Taekwon V"?
 
 4
@@ -24,7 +23,7 @@ Hay cosas increíbles aquí.
 
 6
 00:00:40,909 --> 00:00:42,759
-Pensaba que emergía del domo
+Pensé que emergía del domo
 del edificio de la Asamblea Nacional.
 
 7
@@ -34,8 +33,8 @@ Yo también lo pensaba.
 
 8
 00:00:44,826 --> 00:00:46,681
-Taekwon V está desde hace 40 años.
-[La reputación de Taekwon V desde los 70]
+Taekwon V existe desde hace 40 años.
+[Taekwon V ganó su reputación en los 70]
 
 9
 00:00:46,706 --> 00:00:48,516
@@ -49,7 +48,7 @@ A mi papá le encantaba.
 
 11
 00:00:50,556 --> 00:00:51,926
-Mi papá la miraba cuando él era niño.
+Mi papá la miraba cuando era niño.
 
 12
 00:00:51,926 --> 00:00:53,656
@@ -66,22 +65,22 @@ V de BTS es un éxito en estos días.
 - ¿Qué hacemos ahora?
 
 15
-00:00:59,860 --> 00:01:02,334
+00:00:59,860 --> 00:01:04,238
 Navidad.
-[Llegó la temporada de Navidad]
+[Llegó la temporada navideña]
 
 16
 00:01:06,693 --> 00:01:09,838
-Hoy es "Por favor, cuiden a Papá Noel".
+Hoy es "Por favor, cuida de Papá Noel".
 
 17
 00:01:10,776 --> 00:01:12,600
 [¡Run BTS!
-¡Por favor, cuiden a Papá Noel!]
+"¡Por favor, cuida de Papá Noel!"]
 
 18
 00:01:12,601 --> 00:01:14,044
-[BTS se vuelven Papás Noel por un día]
+[BTS se vuelve Papá Noel por un día]
 
 19
 00:01:14,044 --> 00:01:15,477
@@ -95,37 +94,37 @@ para decorar el árbol de Navidad]
 
 21
 00:01:17,010 --> 00:01:18,406
-[Uno. Encuentra adornos con números del 1-50
-e intercambia con el número en el árbol]
+[1. Encuentren los adornos 1-50
+y cámbienlos por el número en el árbol]
 
 22
 00:01:18,406 --> 00:01:20,244
-[Dos. Cinco cupones para intercambiar
-con el número que quieres]
+[2. Hay cinco cupones intercambiables
+por cualquier número]
 
 23
 00:01:20,244 --> 00:01:21,676
-[Tres. Una estrella del árbol
-para elegir tres números que quieres]
+[3. La estrella del árbol
+permite elegir tres números]
 
 24
 00:01:21,676 --> 00:01:23,522
-[Encuentra la llave de una caja
+[Encuentra la llave de la caja
 para obtener la estrella del árbol]
 
 25
 00:01:23,522 --> 00:01:25,582
-[Cuatro. El Papá Noel que encuentra más números
+[4. El Papá Noel que encuentre más números
 consecutivos elige un regalo primero]
 
 26
 00:01:26,400 --> 00:01:28,414
-[Ejemplo) A - uno, dos, tres, cuatro
+[Ejemplo: A - 1, 2, 3, 4
 B - 21, 22, 33, 35, 37, 40, 45, 50]
 
 27
 00:01:28,415 --> 00:01:29,982
-[¡El ganador es el Papá Noel que encuentre
+[¡Gana el Papá Noel que encuentre
 más números consecutivos!]
 
 28
@@ -134,7 +133,7 @@ más números consecutivos!]
 
 29
 00:01:31,668 --> 00:01:33,618
-Tenemos malos recuerdos de eso, ¿no?
+Tenemos malos recuerdos de esto, ¿no?
 
 30
 00:01:33,618 --> 00:01:36,498
@@ -182,12 +181,12 @@ se volverá harapiento.
 39
 00:01:55,645 --> 00:01:58,095
 Estoy en desventaja
-porque tengo mal sentido de la orientación.
+porque me desoriento fácilmente.
 
 40
 00:01:58,095 --> 00:02:00,450
-- Nosotros tampoco hemos estado aquí.
-- No importa, nosotros tampoco lo conocemos.
+- Nosotros no conocemos aquí.
+- No importa, nosotros tampoco.
 [Nervioso]
 
 41
@@ -235,8 +234,7 @@ cuando se abre la puerta]
 
 50
 00:02:20,581 --> 00:02:22,922
-¡Encontré dos!]
-[Encontré uno]
+¡Encontré dos!
 
 51
 00:02:22,923 --> 00:02:24,569
@@ -250,7 +248,7 @@ cuando se abre la puerta]
 53
 00:02:29,060 --> 00:02:30,930
 ¿Dónde están todos?
-[Solo feliz]
+[Solo se divierte]
 
 54
 00:02:32,072 --> 00:02:33,766
@@ -281,2572 +279,2561 @@ es nuestra caja de utilería...]
 Creo que pusieron otra cosa.
 
 60
-00:02:44,722 --> 00:02:46,328
+00:02:44,722 --> 00:02:49,019
 No es esto, ¿verdad?
-[En ese entonces, no sabíamos
-cómo la caja de utilería.
+¿Por qué me hacen esto?
+[No imaginamos el impacto que tendría esa caja]
 
 61
-00:02:46,328 --> 00:02:49,090
-¿Por qué me hacen esto?
-[que encontró RM causaría impacto]
-
-62
 00:02:49,115 --> 00:02:52,255
 ¿Qué?
 [Jung Kook corre hacia algún lado]
 
-63
+62
 00:02:52,255 --> 00:02:55,108
 ¿Voy en la dirección correcta?
 [Confundido]
 
-64
+63
 00:02:55,458 --> 00:02:59,213
 ¿Dónde estoy?
 Esta es la entrada.
 
-65
+64
 00:03:01,950 --> 00:03:03,720
 ¿Dónde está?
 [Corre]
 
-66
+65
 00:03:04,920 --> 00:03:07,114
 ¿Qué?
 ¿Alguien subió?
 
-67
+66
 00:03:08,900 --> 00:03:11,777
 ¡No!
-[Lloro, mi precioso Cerdolfo...]
+[Lloro por mi precioso Cerdolfo...]
 
-68
+67
 00:03:13,200 --> 00:03:15,000
 [Mi Cerdolfo]
 
-69
+68
 00:03:16,573 --> 00:03:17,899
 ¿Cómo luce?
 
-70
+69
 00:03:21,360 --> 00:03:24,560
 Lo encontré.
 [¿Es esto?]
 
-71
+70
 00:03:24,910 --> 00:03:26,129
 [Vaya]
 
-72
+71
 00:03:26,153 --> 00:03:28,666
 ¿Qué es eso?
 
-73
+72
 00:03:29,016 --> 00:03:30,770
 Increíble.
 [Curioso, ¿qué es?]
 
-74
+73
 00:03:30,770 --> 00:03:32,667
 [Una zona de escalada muy alta]
 
-75
+74
 00:03:33,120 --> 00:03:35,535
 - Es eso, ¿no?
 - ¿Puedes agarrarlo?
 [Hay un cupón en la cima]
 
-76
+75
 00:03:35,535 --> 00:03:37,877
-[Esto se filmó de manera segura
-con ayuda profesional]
+[Filmado bajo supervisión profesional]
 
-77
+76
 00:03:40,083 --> 00:03:40,853
 Bien.
 
-78
+77
 00:03:43,480 --> 00:03:45,840
-Vamos, eso es muy malo.
+Vamos, eso es muy cruel.
 [De la nada j-hope corta el Cerdolfo de V]
 
-79
+78
 00:03:45,860 --> 00:03:47,660
 Eso fue muy malo.
 
-80
+79
 00:03:48,878 --> 00:03:51,004
 [V corta el Cerdolfo de j-hope]
 
-81
+80
 00:03:53,448 --> 00:03:56,420
 - El ladrón comienza su operativo.
 - ¿Ladrón?
 [Anuncio]
 
-82
+81
 00:03:56,420 --> 00:03:58,060
 ¿Ladrón?
 
-83
+82
 00:03:58,080 --> 00:04:00,419
 ¡Bien, vamos!
-[Muy ocupado encargándose de Cerdolfo
-como para escuchar el anuncio]
+[Muy ocupado con Cerdolfo para oír el anuncio]
 
-84
+83
 00:04:01,574 --> 00:04:03,261
 Esto no se siente bien.
 
-85
+84
 00:04:05,201 --> 00:04:07,641
 ¿Ladrón?
 ¿Hay un ladrón?
 [Confundido]
 
-86
+85
 00:04:07,641 --> 00:04:09,266
-[Cómo se creó el episodio
+[Así se creó el episodio
 de "Run BTS" de hoy]
 
-87
+86
 00:04:09,266 --> 00:04:11,876
 [El personal pensó mucho en el concepto
 del espía y quién debería serlo]
 
-88
+87
 00:04:11,876 --> 00:04:14,515
 [Elegimos a j-hope para ser el espía]
 
-89
+88
 00:04:14,757 --> 00:04:17,157
 ¿En serio?
 ¿Yo soy el espía?
 [j-hope oyó las reglas con anticipación]
 
-90
+89
 00:04:17,157 --> 00:04:19,843
 No estoy seguro.
 Ay, no.
 [Medio preocupado, medio emocionado]
 
-91
+90
 00:04:19,843 --> 00:04:21,948
-Saben que soy un mal mentiroso.
+Saben que soy malo para mentir.
 
-92
+91
 00:04:21,948 --> 00:04:25,267
 ¿Puedo recibir el premio
-cuando cumpla la misión?
+si cumplo la misión?
 
-93
+92
 00:04:25,267 --> 00:04:28,315
-¿Puedo elegir lo que quiera de estos?
+¿Puedo elegir lo que quiera de esto?
 Increíble.
 
-94
+93
 00:04:28,315 --> 00:04:30,268
 No se lo digas a los demás.
 
-95
+94
 00:04:31,353 --> 00:04:33,712
-[Para evitar dudas
-sobre la entrega de la regla del espía]
+[Para evitar sospechas
+sobre la asignación del espía]
 
-96
+95
 00:04:33,712 --> 00:04:36,518
 [el personal hizo una entrevista previa
 con cada miembro]
 
-97
+96
 00:04:36,855 --> 00:04:38,836
 Uno, dos, tres.
 
-98
+97
 00:04:38,861 --> 00:04:40,606
 ¿Qué episodio te gustaría
 volver a intentar?
 
-99
+98
 00:04:40,606 --> 00:04:42,311
 ¿Vamos a hacer la siguiente temporada?
-[Dijimos que es la entrevista previa]
+[Dijimos que era una entrevista previa]
 
-100
+99
 00:04:42,311 --> 00:04:44,596
-El episodio del juego de computadora.
+El episodio de juegos de computadora.
 Fue divertido.
 [Pero es una entrevista falsa]
 
-101
+100
 00:04:44,596 --> 00:04:48,024
-Me gustó el de gran escala.
+Me gustó el de alto presupuesto.
 El episodio de los zombis.
 
-102
+101
 00:04:48,024 --> 00:04:49,870
-Hicimos una serie de misiones.
-[Gracias por hacer una entrevista falsa]
+Cuando hicimos una serie de misiones.
+[Gracias por la entrevista falsa]
 
-103
+102
 00:04:50,187 --> 00:04:51,766
-Salto en bungee.
+El salto en bungee.
 [Inocente]
 
-104
+103
 00:04:52,052 --> 00:04:54,703
 ¿Están listos?
 [Elocuente]
 
-105
+104
 00:04:54,728 --> 00:04:57,349
 Cortaré todos los globos.
 
-106
+105
 00:04:58,311 --> 00:05:00,149
 Cuídense.
 
-107
+106
 00:05:00,507 --> 00:05:02,275
 [¡Run BTS!
-¡Por favor, cuiden a Papá Noel!]
+"¡Por favor, cuida de Papá Noel!"]
 
-108
+107
 00:05:02,275 --> 00:05:04,123
 [¡El verdadero "Run BTS" de hoy!
-Cuiden a Papá Noel (¡Salven al globo!)]
+Cuida de Papá Noel (¡Y salva el globo!)]
+
+108
+00:05:04,123 --> 00:05:05,541
+[j-hope es el ladrón encubierto]
 
 109
-00:05:04,123 --> 00:05:05,541
-[j-hope es el ladrón entre los Papás Noel]
-
-110
 00:05:05,541 --> 00:05:07,353
-[Cuando corte al menos cuatro globos,
+[Si corta cuatro globos,
 habrá logrado su misión]
 
-111
+110
 00:05:07,353 --> 00:05:08,651
 [¡Puede elegir primero el regalo!]
-[Se usó tijeras seguras para niños]
+[Usa tijeras seguras para niños]
 
-112
-00:05:08,651 --> 00:05:10,041
-La razón por la que les damos esto es
+111
+00:05:08,651 --> 00:05:11,806
+Se lo damos para que no corran muy rápido.
 [El personal da excusas por los globos]
 
+112
+00:05:11,831 --> 00:05:13,556
+Sí, hay riesgo de lesión.
+
 113
-00:05:10,066 --> 00:05:13,556
-- que quizás corran muy rápido.
-- Sí, hay riesgo de lesión.
+00:05:13,556 --> 00:05:15,349
+[La misión de j-hope inicia en secreto]
 
 114
-00:05:13,556 --> 00:05:15,349
-[La misión de ladrón de j-hope
-comienza sin que nadie lo sepa]
-
-115
 00:05:15,349 --> 00:05:17,383
 [Nadie se habría imaginado]
 
-116
+115
 00:05:18,068 --> 00:05:20,464
 [esta transformación de j-hope]
 
-117
+116
 00:05:22,900 --> 00:05:24,957
 [¡Esperen con ansias al j-hope ladrón!]
 
-118
+117
 00:05:25,761 --> 00:05:28,461
-V, se cortó el cerdo, ¿y tú sigues?
+V, se cortó el cerdo
+¿y tú sigues?
 [V obtuvo el cupón]
 
-119
+118
 00:05:29,560 --> 00:05:31,333
 [Corté el Cerdolfo de V]
 
-120
+119
 00:05:31,333 --> 00:05:32,071
 [De repente se acerca]
 
-121
+120
 00:05:32,095 --> 00:05:33,633
 ¿Dónde está?
 [Nervioso]
 
-122
+121
 00:05:33,633 --> 00:05:35,283
 Aquí está.
 
-123
+122
 00:05:35,283 --> 00:05:37,243
 Espera, SUGA.
 
-124
+123
 00:05:37,243 --> 00:05:40,808
 ¿Por qué me persigues?
-[El siguiente objetivo es SUGA?]
+[¿El siguiente objetivo es SUGA?]
 
-125
+124
 00:05:40,833 --> 00:05:43,443
 ¡No me sigas!
 ¿Por qué me estás siguiendo?
 [¿Por qué te seguiría...?]
 
-126
+125
 00:05:43,468 --> 00:05:45,343
 Oye, ¿por qué cortaste el mío?
 [Para cortar tu Cerdolfo]
 
-127
+126
 00:05:46,115 --> 00:05:47,805
 [Dos misiones cumplidas]
 
-128
+127
 00:05:48,825 --> 00:05:51,193
 - ¿Encontraste alguno?
 - Sí
 [Intercambia los números en el árbol]
 
-129
+128
 00:05:51,217 --> 00:05:52,594
-- 28.
-- 27.
+- Veintiocho.
+- Veintisiete.
 
-130
+129
 00:05:52,619 --> 00:05:54,137
 - ¿Dónde está el 28?
 - ¿Dónde está el 27?
 
-131
+130
 00:05:54,162 --> 00:05:55,897
 ¿Dónde está el 28?
 [Pánico]
 
-132
+131
 00:05:55,897 --> 00:05:58,277
 - Creo que estoy en desventaja.
 - Buena suerte.
 
-133
+132
 00:05:58,597 --> 00:05:59,707
 ¡Vamos, cerdito!
 
-134
+133
 00:05:59,751 --> 00:06:02,763
 No puedo evitar cargarlo.
 [RM deambula sosteniendo su Cerdolfo]
 
-135
+134
 00:06:05,089 --> 00:06:07,419
 Necesito encontrar todo aquí
 antes de que vengan.
 
-136
+135
 00:06:07,419 --> 00:06:09,089
 [Mira alrededor]
 
-137
+136
 00:06:09,089 --> 00:06:11,179
 - ¿Dónde está?
 - ¡Encontré uno, se terminó!
 
-138
+137
 00:06:11,179 --> 00:06:12,414
 - ¿Dónde está?
 - ¡Se terminó!
 
-139
+138
 00:06:12,438 --> 00:06:13,698
 - ¿No hay nada más aquí?
 - No.
 
-140
+139
 00:06:13,698 --> 00:06:15,473
 [Corre con prisa]
 
-141
+140
 00:06:15,473 --> 00:06:17,227
 [Lo tengo]
 
-142
+141
 00:06:17,227 --> 00:06:19,687
 Vamos.
 [En realidad hay un cupón más colgado]
 
-143
+142
 00:06:21,030 --> 00:06:23,078
 ¿Hay cupones aquí?
 
-144
+143
 00:06:25,566 --> 00:06:27,490
 [El pobre cordero no tenía idea]
 
-145
+144
 00:06:27,490 --> 00:06:29,595
 Iré a buscar a Jimin.
 
-146
+145
 00:06:30,240 --> 00:06:32,160
 - ¿Qué es este lugar?
 - ¿Cuántos encontraste?
 [De que se volvió el objetivo del ladrón]
 
-147
+146
 00:06:32,655 --> 00:06:33,927
 - ¿Eh?
 - ¿Cuántos encontraste?
 
-148
+147
 00:06:33,951 --> 00:06:35,570
 - ¿Unos siete?
 - ¿En serio?
 
-149
+148
 00:06:35,570 --> 00:06:37,340
 ¿Dónde está la caja de seguridad?
 [La actuación incómoda de j-hope]
 
-150
+149
 00:06:37,340 --> 00:06:39,255
 ¿No es donde está el árbol?
 [¿Qué le pasa?]
 
-151
+150
 00:06:39,255 --> 00:06:41,415
 ¡Jimin!
 ¡Vamos juntos!
 
-152
+151
 00:06:41,415 --> 00:06:43,500
 ¡Dame uno!
 [Que alguien me diga cuál es el concepto]
 
-153
+152
 00:06:43,525 --> 00:06:45,104
 ¡No, no!
 
-154
+153
 00:06:45,104 --> 00:06:46,904
 ¡Vamos, Jimin!
 [Corte]
 
-155
+154
 00:06:47,276 --> 00:06:48,916
 ¡Jimin!
 [Se va enseguida]
 
-156
+155
 00:06:48,916 --> 00:06:51,112
 Conseguí tres.
 
-157
+156
 00:06:51,769 --> 00:06:54,037
 Es pan comido.
 [La misión del ladrón va muy bien]
 
-158
+157
 00:06:54,062 --> 00:06:55,900
 Son tontos.
 [Gracias a los miembros ingenuos]
 
-159
+158
 00:06:58,000 --> 00:06:59,760
-Suerte encontrando los cupones, muchachos.
+Suerte encontrando los cupones.
 [Mira orgulloso]
 
-160
+159
 00:07:00,421 --> 00:07:02,248
 ¿Está colgando ahí?
 [Un poco emocionado]
 
-161
+160
 00:07:02,273 --> 00:07:03,892
 - Conseguí todos.
 - ¿En serio?
 [No] [Ya veo]
 
-162
+161
 00:07:03,917 --> 00:07:05,163
 - Sí.
 - Parece divertido.
 
-163
+162
 00:07:07,116 --> 00:07:08,833
-[Jimin vio a Jin corriendo
-por todos lados]
+[Jimin vio a Jin corriendo por doquier]
 
-164
+163
 00:07:08,858 --> 00:07:10,643
 Jin está corriendo por todos lados.
 
-165
+164
 00:07:11,143 --> 00:07:12,608
 ¿Dónde está mi cerdito?
 [Nervioso]
 
-166
+165
 00:07:12,633 --> 00:07:15,102
 [Se empujan]
 
-167
+166
 00:07:15,127 --> 00:07:17,074
 [Crujido]
 
-168
+167
 00:07:17,788 --> 00:07:18,870
-Mi cerdito no está.
+Mi cerdito ya no está.
 [Mi Cerdolfo desapareció]
 
-169
+168
 00:07:18,895 --> 00:07:20,894
 [Juguetea]
 
-170
+169
 00:07:20,919 --> 00:07:23,622
 - ¿Cuántos encontraste?
 - ¿Yo? No muchos.
 
-171
+170
 00:07:23,622 --> 00:07:26,463
 [Encontró un adorno de inmediato]
 
-172
+171
 00:07:26,488 --> 00:07:28,093
 [Dedos ágiles]
 
-173
+172
 00:07:28,935 --> 00:07:30,777
 [No puede dejar de sonreír]
 
-174
+173
 00:07:31,578 --> 00:07:33,162
 Mi bolsa está llena.
 [Bolsa repleta]
 
-175
+174
 00:07:33,332 --> 00:07:35,242
 [¿j-hope busca un adorno?]
 
-176
+175
 00:07:37,738 --> 00:07:39,800
 ¿Dónde está tu cerdo?
 [...No, mírenle los ojos]
 
-177
+176
 00:07:39,800 --> 00:07:42,075
 Se cortó.
 Supongo que alguien lo cortó.
 [No es nada justo]
 
-178
+177
 00:07:42,100 --> 00:07:43,630
 ¿No es mío ese?
 
-179
+178
 00:07:44,305 --> 00:07:46,375
 Te daré uno.
 Tenme paciencia.
 [Nervioso]
 
-180
+179
 00:07:46,375 --> 00:07:49,067
 Déjame volver a atarlo.
 Dame uno.
 [¡BTS!] [Actúa tierno]
 
-181
+180
 00:07:49,375 --> 00:07:51,295
 [Hay un ladrón oculto
 entre los Papás Noel]
 
-182
+181
 00:07:51,931 --> 00:07:56,795
 [Ha estado cortando sus Cerdolfos]
 
-183
+182
 00:07:56,795 --> 00:07:58,200
 ¿En serio?
 
-184
+183
 00:07:58,200 --> 00:08:00,425
 Lo sé. El mío desapareció
 antes de darme cuenta
 [¡No es justo!]
 
-185
+184
 00:08:00,425 --> 00:08:02,153
 j-hope lo cortó y se fue corriendo.
 
-186
+185
 00:08:02,153 --> 00:08:03,948
 ¿Hay un ladrón entre nosotros?
-[Cuando corte tu Cerdolfo,
-el ladrón ganará]
+[El ladrón ganará si corte los Cerdolfos]
 
-187
+186
 00:08:06,652 --> 00:08:08,017
 ¿En serio?
 [¿Qué?]
 
-188
+187
 00:08:12,178 --> 00:08:14,688
 ¡Creo que j-hope es el ladrón!
 [¿Qué le pasa...?]
 
-189
+188
 00:08:14,713 --> 00:08:16,646
 ¡No soy el ladrón!
 [Lo sé]
 
-190
+189
 00:08:16,671 --> 00:08:18,790
 ¡Encontré al ladrón!
 [Una lluvia de quejas]
 
-191
+190
 00:08:18,815 --> 00:08:20,640
 ¡Encontramos al ladrón!
 [Todos entraron en pánico]
 
-192
+191
 00:08:22,150 --> 00:08:24,345
 ¡El mío desapareció antes de darme cuenta!
 [Es injusto]
 
-193
+192
 00:08:24,345 --> 00:08:26,690
 ¡Él cortó el mío!
 [Todas las piezas encajan]
 
-194
+193
 00:08:26,690 --> 00:08:28,445
 ¡Sí, j-hope es el ladrón!
 
-195
+194
 00:08:28,445 --> 00:08:30,219
 ¡j-hope es el ladrón!
 
-196
+195
 00:08:30,219 --> 00:08:31,983
 ¡j-hope es el ladrón!
 [Pisotones]
 
-197
+196
 00:08:31,983 --> 00:08:33,424
 Esperen.
 
-198
+197
 00:08:33,424 --> 00:08:35,528
 ¿Qué le pasa?
 El mío ya se cortó.
 
-199
+198
 00:08:35,552 --> 00:08:36,571
-¡Fuera del camino!
+¡Quítate!
 
-200
+199
 00:08:37,208 --> 00:08:39,422
 [¿Eh?]
 [Jimin explota el globo de Jin]
 
-201
+200
 00:08:39,447 --> 00:08:42,949
 ¡Yo no soy el ladrón!
 ¡Jimin lo explotó! ¡Es Jimin!
 
-202
+201
 00:08:42,974 --> 00:08:44,604
 [No te creo]
 
-203
+202
 00:08:44,604 --> 00:08:46,604
 - Él explotó el mío.
 - ¿Somos un equipo?
 
-204
+203
 00:08:46,604 --> 00:08:48,384
 [Corren a toda velocidad]
 
-205
+204
 00:08:48,670 --> 00:08:50,365
 Yo no soy el ladrón.
 
-206
+205
 00:08:50,365 --> 00:08:52,185
 Oí que eres el culpable.
 [Detective SUGA]
 
-207
+206
 00:08:52,435 --> 00:08:54,605
-- No, no lo soy.
+- No, no soy yo.
 - Cortaste el mío y te escapaste.
 
-208
+207
 00:08:54,605 --> 00:08:55,532
 Vete.
 [Lo sé todo]
 
-209
+208
 00:08:55,556 --> 00:08:56,851
 Ya cortaron el tuyo.
 [Qué genial]
 
-210
+209
 00:08:57,872 --> 00:09:02,089
-Necesito uno más, pero se dieron cuenta.
-Ahora es más difícil, ¿qué hago?
+Necesito uno más, pero se dieron cuenta
+y ahora es más difícil, ¿qué hago?
 [Preocupado]
 
-211
+210
 00:09:03,240 --> 00:09:05,573
 [Jung Kook se esconde del ladrón]
 
-212
+211
 00:09:05,598 --> 00:09:07,533
 Debería esconderme aquí.
 
-213
+212
 00:09:07,558 --> 00:09:09,573
 Jung Kook, ¿qué estás haciendo?
 [Cucú]
 
-214
+213
 00:09:09,598 --> 00:09:11,521
 - Estoy escondido.
 - Eres el ladrón, ¿verdad?
 
-215
+214
 00:09:11,546 --> 00:09:12,949
 No.
 [Mmm... Acusas al equivocado]
 
-216
+215
 00:09:12,949 --> 00:09:16,932
 No soy el ladrón,
 pero arruiné el globo de Jin.
 [Se arrastra]
 
-217
+216
 00:09:17,210 --> 00:09:18,806
 [Escapa]
 
-218
+217
 00:09:18,831 --> 00:09:21,373
 No soy el ladrón, en serio,
 pero corté el de Jin.
 [¿Por qué...? Se pone más sospechoso]
 
-219
+218
 00:09:21,596 --> 00:09:24,344
 ¿Qué?
 ¿Por qué me evitas?
 [Polvorín]
 
-220
+219
 00:09:25,404 --> 00:09:29,427
 [Persecución impresionante,
 uno persigue, al otro lo persiguen]
 
-221
+220
 00:09:29,452 --> 00:09:31,661
 Nos estamos quedando sin tiempo.
 
-222
+221
 00:09:31,686 --> 00:09:34,774
-Llevas tijera.
-[No te la daré]
+Tienes tijeras.
+[No te lo daré]
+
+222
+00:09:34,799 --> 00:09:36,835
+[Debería salir de aquí]
 
 223
-00:09:34,799 --> 00:09:36,835
-[Debería salir de este lugar]
-
-224
 00:09:40,535 --> 00:09:41,491
 [¿Qué acaba de pasar...?]
 
-225
+224
 00:09:41,510 --> 00:09:43,010
 No puedo derrotar a Jung Kook.
 
-226
+225
 00:09:43,010 --> 00:09:45,980
-¿A dónde fue mi sombrero?
+¿A dónde se fue mi sombrero?
 [Jung Kook escapó a un refugio seguro]
 
-227
+226
 00:09:45,980 --> 00:09:47,800
 Debería ir por Jin y RM.
-[¡Cambia el objetivo!]
+[¡Cambia de objetivo!]
 
-228
+227
 00:09:47,800 --> 00:09:50,360
 ¿Qué?
 [Holgazanea] [¡Encontró a RM!]
 
-229
+228
 00:09:50,360 --> 00:09:52,480
 ¿Qué?
 [Caótico de nuevo]
 
-230
+229
 00:09:52,480 --> 00:09:55,953
 Podemos tomar el de j-hope, ¿verdad?
 
-231
+230
 00:09:56,238 --> 00:09:58,080
 ¿Por qué lo sostienes?
 
-232
+231
 00:09:58,105 --> 00:09:59,101
 - ¿Para qué es esto?
 - ¿No eres el ladrón?
 [Perplejo]
 
-233
+232
 00:09:59,125 --> 00:09:59,969
 No lo necesito.
 
-234
+233
 00:09:59,969 --> 00:10:02,582
 ¿Eh?
 [El genial j-hope se fue...]
 
-235
+234
 00:10:03,175 --> 00:10:06,488
 - ¿Por qué no tienes uno, Jin?
-- Jimin explotó mi globo.
+- Jimin me reventó el globo.
 
-236
+235
 00:10:06,519 --> 00:10:08,439
 ¡No!
-[j-hope cortó la tira]
+[j-hope cortó el cordón]
 
-237
+236
 00:10:08,550 --> 00:10:09,945
 La evidencia.
 [Explica]
 
-238
+237
 00:10:10,568 --> 00:10:13,053
 Debería estar oculto
 en un sitio inesperado.
 [Se concentra en buscar adornos]
 
-239
+238
 00:10:14,626 --> 00:10:16,512
-[No aquí]
+[Aquí no]
 
-240
+239
 00:10:16,537 --> 00:10:17,794
 Supongo que no.
-[Está colgando de un pomo]
+[Está colgando de un picaporte]
+
+240
+00:10:19,345 --> 00:10:21,840
+[Pasó a su lado]
 
 241
-00:10:19,345 --> 00:10:21,840
-[Pasó por al lado]
-
-242
 00:10:21,865 --> 00:10:23,321
 Tengo miedo.
 [j-hope da miedo]
 
-243
+242
 00:10:23,346 --> 00:10:26,229
 [¿Eh?]
 
-244
+243
 00:10:27,770 --> 00:10:29,867
 [Muy feliz]
 
-245
+244
 00:10:30,815 --> 00:10:32,550
-[Encontró algo] [¿Qué es?]
+[Encontró algo]
+[¿Qué es?]
 
-246
+245
 00:10:34,463 --> 00:10:36,105
 [¡Bingo!]
 
-247
+246
 00:10:39,469 --> 00:10:41,160
 [RM encontró la llave con la estrella]
 [Él también se sorprendió]
 
-248
+247
 00:10:43,305 --> 00:10:47,045
 Es la llave.
-[Nadie vio esto, ¿no?]
+[Nadie vio esto, ¿verdad?]
+
+248
+00:10:50,613 --> 00:10:52,546
+[RM encontró todo lo que no vio SUGA]
 
 249
-00:10:50,613 --> 00:10:52,546
-[RM encontró todos los adornos
-que no vio SUGA]
-
-250
 00:10:54,459 --> 00:10:55,980
 Muy torpe.
 
-251
+250
 00:10:55,980 --> 00:10:58,080
 ¿Qué es este lugar?
 [Jimin mira alrededor]
 
-252
+251
 00:10:58,080 --> 00:11:01,023
 ¿Qué es ese cerdo?
 
-253
+252
 00:11:02,283 --> 00:11:04,644
 [Jimin encontró un Cerdolfo]
 
-254
+253
 00:11:06,863 --> 00:11:09,887
 Tengo un cerdito ahora.
 [Es mío ahora]
 
-255
+254
 00:11:09,887 --> 00:11:12,512
 No lo explotes.
 Vete.
 [SUGA cree que la misión es explotarlo]
 
-256
+255
 00:11:12,512 --> 00:11:14,712
 ¿Qué?
 La misión no es explotarlo.
 
-257
+256
 00:11:14,712 --> 00:11:16,807
 Vete.
 [Largo, fuera]
 
-258
+257
 00:11:18,102 --> 00:11:20,342
 Solo tengo agarrar a Jung Kook.
 
-259
+258
 00:11:20,889 --> 00:11:22,985
 No está aquí.
 [V y Jung Kook trabajan juntos]
 
-260
+259
 00:11:22,985 --> 00:11:24,860
 No hay nada aquí.
 Aquí no.
 
-261
+260
 00:11:24,880 --> 00:11:26,543
 - No.
 - Aquí no.
 
-262
+261
 00:11:26,567 --> 00:11:27,375
 No.
 
-263
+262
 00:11:27,899 --> 00:11:30,335
 Espera.
 Hay una cámara.
 
-264
+263
 00:11:30,360 --> 00:11:32,240
 Debería estar en algún lado.
 [¿Dónde está?]
 
-265
+264
 00:11:32,240 --> 00:11:35,265
-Hay una cámara, el ángulo...
-[Jung Kook intenta encontrar el adorno
-según en ángulo de la cámara]
+Hay una cámara, y según el ángulo...
+[Jung Kook analiza el ángulo de la cámara]
 
-266
+265
 00:11:35,940 --> 00:11:38,345
 - ¿Por aquí?
 - Sí.
 [Pánico]
 
-267
+266
 00:11:39,725 --> 00:11:41,725
 ¿Lo encontraste?
 [Buscan en cada esquina]
 
-268
+267
 00:11:41,725 --> 00:11:44,394
 - Se están volviendo locos ahora.
 - ¿Eh?
 
-269
+268
 00:11:44,419 --> 00:11:46,493
 - Se están volviendo locos.
-- j-jope está cortando las tiras.
+- j-jope está cortando los cordones.
 
-270
+269
 00:11:46,660 --> 00:11:48,720
 Supongo que es el ladrón.
 [Le tengo miedo]
 
-271
+270
 00:11:50,665 --> 00:11:53,535
 Sí, no era solo una búsqueda del tesoro.
-[No era un juego fácil]
+[No es un juego fácil]
 
-272
+271
 00:11:53,560 --> 00:11:55,551
 [Miembros de BTS]
 
-273
+272
 00:11:55,576 --> 00:11:57,528
 ¿Eh?
 [Necesito su atención un minuto]
 
-274
+273
 00:11:57,553 --> 00:11:59,353
 ¿Atención para qué?
 [Jimin perplejo]
 
-275
+274
 00:12:00,199 --> 00:12:02,389
 No sé dónde.
 [¿Prestar atención a qué?]
 
-276
+275
 00:12:02,911 --> 00:12:06,156
 Bien.
 [Pueden prestar atención donde están]
 
-277
+276
 00:12:06,613 --> 00:12:10,113
-[Protejan a los miembros
-cuyas tiras aún no se han cortado]
+Protejan a los miembros
+cuyas tiras aún no se han cortado
+
+277
+00:12:10,113 --> 00:12:15,178
+Y procedan con su misión
+para que gane Papá Noel
 
 278
-00:12:10,113 --> 00:12:15,178
-[Y procedan con su misión
-para que gane Papá Noel]
-
-279
 00:12:15,214 --> 00:12:17,774
-La mía se cortó una vez.
+El míp ya lo cortaron una vez.
 ¿Quieres tenerlo?
 
-280
+279
 00:12:17,799 --> 00:12:19,524
 - Puedes conservarlo.
 - ¿En serio?
 [Jin no tiene Cerdolfo, Jimin lo explotó]
 
-281
+280
 00:12:19,524 --> 00:12:22,732
 Sí, puedes conservarlo.
 El mío se cortó.
 [Donación del ángel]
 
-282
+281
 00:12:22,993 --> 00:12:25,103
-- ¿Estaría bien?
-- ¿Por qué no ponerlo?
+- ¿Estará bien?
+- ¿Por qué te lo quedas?
 
-283
+282
 00:12:25,103 --> 00:12:27,067
 Intentémoslo.
 [No es gran cosa]
 
-284
+283
 00:12:27,107 --> 00:12:28,907
 Corté el de j-hope.
 [Jin adoptó el cerdo]
 
-285
+284
 00:12:28,907 --> 00:12:30,947
 ¿Dónde está Jung Kook?
 Necesito encontrarlo.
 [j-hope busca a Jung Kook]
 
-286
+285
 00:12:32,690 --> 00:12:34,434
 ¿Qué es eso?
 
-287
+286
 00:12:34,434 --> 00:12:36,574
 Hay una cámara.
 [Papá Kook encontró la cámara]
 
-288
+287
 00:12:37,615 --> 00:12:39,395
 ¿Qué?
 [Hola]
 
-289
+288
 00:12:39,395 --> 00:12:41,395
 ¿Fuiste a todos lados, Jin?
 
-290
+289
 00:12:41,395 --> 00:12:43,605
 Sí.
 Esta es la tercera vez.
 
-291
+290
 00:12:43,630 --> 00:12:45,705
 ¿En serio?
 [La caja está vacía]
 
-292
+291
 00:12:46,657 --> 00:12:50,332
 Entonces no encontraré nada aquí ahora.
 [Ahora...]
 
-293
+292
 00:12:51,252 --> 00:12:53,257
 [No te acerques mucho...]
 
-294
+293
 00:12:54,161 --> 00:12:56,630
-¿Puedo llevar esta cámara para filmarme?
+¿Puedo llevarme esta cámara para filmarme?
 [Encontró una cámara]
 
-295
+294
 00:12:56,630 --> 00:12:59,731
 ¡Kim Seokjin lo está haciendo genial!
 [Sí... Adelante]
 [Autocobertura voluntaria]
 
-296
+295
 00:13:01,583 --> 00:13:04,244
 ¿Dónde lo escondieron?
 
-297
+296
 00:13:04,244 --> 00:13:06,329
 [¿Aquí? ¿Allí?]
 
-298
+297
 00:13:06,329 --> 00:13:08,844
 La caja con la estrella.
-[RM busca la estrella de árbol de Navidad]
+[RM busca la estrella del árbol de Navidad]
 
-299
+298
 00:13:10,539 --> 00:13:14,229
 La caja.
 [RM ya encontró la llave de la caja]
 
-300
+299
 00:13:14,842 --> 00:13:16,822
 [La voz de j-hope se acerca]
 
-301
+300
 00:13:17,260 --> 00:13:18,947
 [Escapa]
 
-302
+301
 00:13:19,835 --> 00:13:21,725
 Jeong Hoseok.
 [j-hope]
 
-303
+302
 00:13:21,725 --> 00:13:23,790
 ¿Dónde está?
 [RM está asustado]
 
-304
+303
 00:13:23,790 --> 00:13:25,924
 j-hope está allá afuera.
 [Asustado]
 
-305
+304
 00:13:25,949 --> 00:13:27,806
 Hobi interpreta ese rol, ¿verdad?
 
-306
+305
 00:13:27,901 --> 00:13:29,936
 - El ladrón.
 - Sí, eso creo.
-[La pantalla de j-hope se arruinó]
+[Se cayó la fachada de j-hope]
 
-307
+306
 00:13:29,936 --> 00:13:31,706
 Lo vi cortarlo.
 
-308
+307
 00:13:31,706 --> 00:13:33,659
 [Revisan si se fue]
 
-309
+308
 00:13:34,979 --> 00:13:36,542
 ¿Hay alguien aquí?
 [Deambula]
 
-310
+309
 00:13:36,542 --> 00:13:38,733
 [Rayos]
 
-311
+310
 00:13:41,290 --> 00:13:43,083
 [Corre salvajemente]
 
-312
+311
 00:13:45,332 --> 00:13:48,705
 [Escúchalo con los ojos cerrados.
 Es como la era prehistórica]
 
-313
+312
 00:13:49,023 --> 00:13:52,075
 [La cámara muestra la situación de pánico]
 
-314
+313
 00:13:52,172 --> 00:13:55,997
 [¡Como sea! ¡Largo!]
 
-315
+314
 00:14:00,419 --> 00:14:02,180
 ¿Qué?
 [¿Se fue?]
 
-316
+315
 00:14:02,180 --> 00:14:03,918
 ¡No!
 ¡No!
 [¡Aquí está!]
 
-317
+316
 00:14:04,189 --> 00:14:06,985
 ¡Cuidado, RM!
 [Escondido sin respirar]
 
-318
+317
 00:14:08,962 --> 00:14:10,974
 [Pausa]
 
-319
+318
 00:14:10,974 --> 00:14:12,893
 [¿Qué? ¿Qué?]
 
-320
+319
 00:14:14,386 --> 00:14:16,112
 [Parece la escena final de un show de TV]
 [Qué conmoción]
 
-321
+320
 00:14:19,843 --> 00:14:22,452
 Estoy cansado.
 [Espía]
 
-322
+321
 00:14:25,720 --> 00:14:27,746
 [RM terminó con la tira cortada]
 
-323
+322
 00:14:28,957 --> 00:14:30,752
 [¡Conseguí cuatro!
 Lo prueba con la evidencia]
 
-324
+323
 00:14:30,787 --> 00:14:33,497
 Él sostenía su cerdito
 [RM tomó su Cerdolfo]
 
-325
+324
 00:14:33,497 --> 00:14:37,447
 ¡j-hope!
 Debería llamarse j-kill.
 [Jin está asustado]
 
-326
+325
 00:14:37,447 --> 00:14:41,177
 ♪ Diviértete mientras bailas ♪
 
-327
+326
 00:14:41,177 --> 00:14:44,262
 [Tararea]
 
-328
+327
 00:14:44,262 --> 00:14:47,142
 Ahí está. ¿Ves?
 Lo encontraré si sigo buscando.
 
-329
+328
 00:14:47,142 --> 00:14:48,792
 ¿Ves?
 Ahí hay dos más.
 [¡Jimin encontró dos más!]
 
-330
+329
 00:14:50,594 --> 00:14:52,086
 ¿Dónde está la estrella?
 
-331
+330
 00:14:52,086 --> 00:14:53,986
 No encuentro una señal de la estrella.
 ¿Dónde está?
 
-332
+331
 00:14:54,347 --> 00:14:56,069
 [RM encontró la estrella del árbol]
 
-333
+332
 00:14:56,310 --> 00:14:58,470
 La estrella.
 Es esta.
 
-334
+333
 00:15:02,371 --> 00:15:06,321
 [Duro] [RM consiguió la estrella]
 
-335
+334
 00:15:06,321 --> 00:15:07,827
 [Asombrado]
 
-336
+335
 00:15:08,477 --> 00:15:11,421
 [Sorprendido] [¿Por qué estás escalando?]
 
-337
+336
 00:15:13,530 --> 00:15:15,710
 [Sonriente]
 
-338
+337
 00:15:16,672 --> 00:15:20,467
 [Este lugar exhibe el Robot Taekwon V
 del que presume el Centro V]
 
-339
+338
 00:15:20,467 --> 00:15:23,837
 [Orgulloso] [Y V, el guapo miembro
 del que ARMY está orgulloso]
 [Mira adelante]
 
-340
+339
 00:15:23,864 --> 00:15:27,592
 [RM está en camino a encontrar un adorno]
 
-341
+340
 00:15:35,073 --> 00:15:36,504
 [Da un vistazo]
 
-342
+341
 00:15:38,660 --> 00:15:40,120
 [Toc, toc]
 
-343
+342
 00:15:40,120 --> 00:15:42,092
 ¿Cómo llegaste aquí?
 [Sorprendido] [No lo diré]
 
-344
+343
 00:15:42,092 --> 00:15:43,375
 [Vamos]
 
-345
+344
 00:15:43,710 --> 00:15:46,257
 [Se rasca]
 [Congelado]
 
-346
+345
 00:15:46,360 --> 00:15:48,265
 Encontré la estrella.
 [Por fin]
 
-347
+346
 00:15:48,460 --> 00:15:50,745
 [Mi estrella preciosa]
 
-348
+347
 00:15:50,745 --> 00:15:53,535
 [Tu sueño se hará realidad]
 [RM puede elegir tres números que quiera]
 
-349
+348
 00:15:55,220 --> 00:15:57,100
 ¡Le tengo tanto miedo a j-hope!
 [Serio]
 
-350
+349
 00:15:57,100 --> 00:15:58,718
 [Está aquí]
 
-351
+350
 00:15:58,718 --> 00:16:01,728
 - Jin / - ¡j-hope!
 [Jin intenta encontrar
 la manera de escapar]
 
-352
+351
 00:16:02,007 --> 00:16:03,789
 Ya corté el de Jin.
 
-353
+352
 00:16:03,821 --> 00:16:05,460
 [Se escapa]
 
-354
+353
 00:16:05,720 --> 00:16:07,180
 ¿Quieres que lo haga de nuevo?
 
-355
+354
 00:16:08,618 --> 00:16:10,832
 ¡Lo tengo!
 [¡Te encontré!]
 
-356
+355
 00:16:12,575 --> 00:16:14,405
 ¿No es la caja de cupones?
 
-357
+356
 00:16:14,405 --> 00:16:16,245
 ¿Alguien lo dejó luego de tomar cupones?
 [Correcto]
 
-358
+357
 00:16:17,580 --> 00:16:19,585
 [¿Por qué?] [SUGA lleva la caja vacía]
 
-359
+358
 00:16:19,585 --> 00:16:22,260
 - j-hope está viniendo.
 - ¿Está viniendo?
 
-360
+359
 00:16:23,005 --> 00:16:25,710
 Cámara, vuelve a tu lugar, adiós.
 [Jin llevó la cámara su lugar]
 
-361
+360
 00:16:25,710 --> 00:16:28,035
 [RM llegó al árbol
 para colgar la estrella]
 
-362
+361
 00:16:28,035 --> 00:16:31,075
 Colgaré esta estrella en el árbol.
 [Serio]
 
-363
+362
 00:16:34,500 --> 00:16:35,790
 Gané el juego.
 
-364
+363
 00:16:35,790 --> 00:16:37,555
 [SUGA parece parte de la instalación]
 [¿Camaleón?]
 
-365
+364
 00:16:37,555 --> 00:16:40,015
 Ah, ¿estás mirando por el espejo
 para observar?
 
-366
+365
 00:16:40,775 --> 00:16:43,425
 No mires los árboles, mira el bosque.
 [SUGA deja una cita cada día]
 
-367
+366
 00:16:44,870 --> 00:16:47,300
 ¿Qué encontraste?
 [Genial, SUGA]
 
-368
+367
 00:16:47,920 --> 00:16:50,020
 No encontré nada.
 [Pero no tiene nada]
 
-369
+368
 00:16:50,620 --> 00:16:52,858
 - ¡Oye, SUGA!
 - ¿Qué?
 
-370
+369
 00:16:52,883 --> 00:16:55,265
 - ¿Cuántos encontraste?
 - ¿Eh?
 [V se ve curioso desde atrás]
 
-371
+370
 00:16:55,290 --> 00:16:57,680
 - ¿Cuántos?
 - Ya decoré adornos.
 
-372
+371
 00:16:57,720 --> 00:17:00,340
 Encontré uno, gracias a SUGA.
 Por mirar el espejo.
 [Encontró solo uno]
 
-373
+372
 00:17:00,360 --> 00:17:01,170
 ¿Él ya decoró?
 
-374
+373
 00:17:01,194 --> 00:17:03,285
 No mires los árboles, mira el bosque.
 
-375
+374
 00:17:03,752 --> 00:17:05,695
 ¿Debemos colgar los adornos en el árbol?
 
-376
+375
 00:17:05,980 --> 00:17:09,115
 Corté las tiras de todos los miembros.
 [Confiado]
 
-377
+376
 00:17:10,280 --> 00:17:12,675
 Ya terminé mi misión.
 [j-hope completó su misión con éxito]
 
-378
+377
 00:17:12,675 --> 00:17:18,105
 Pero debo cortar la del jugador clave,
 como espía.
 
-379
+378
 00:17:18,105 --> 00:17:22,515
 [Jugador clave Jung Kook]
 
-380
+379
 00:17:23,071 --> 00:17:25,424
 [Jung Kook casi está jugando
 a las escondidas]
 
-381
+380
 00:17:27,990 --> 00:17:30,435
 Solo encontré dos.
 
-382
+381
 00:17:31,683 --> 00:17:34,895
 [Busca con cuidado]
 [El espía se acercó silenciosamente]
 
-383
+382
 00:17:34,920 --> 00:17:38,120
 [Jin escapa aterrado]
 
-384
+383
 00:17:38,340 --> 00:17:39,960
 j-hope, por favor, no me hagas esto.
 ¡j-hope!
 
-385
+384
 00:17:39,980 --> 00:17:44,175
 j-hope, hemos hecho eso juntos.
 [Jin dice tonterías]
 
-386
+385
 00:17:44,175 --> 00:17:46,595
 - Deja de correr, te lesionarás.
 - Podría lesionarme.
 [El dulce Hope que se preocupa por él]
 
-387
+386
 00:17:46,595 --> 00:17:48,370
 [Me iré]
 
-388
+387
 00:17:48,370 --> 00:17:50,061
 j-hope, gracias.
 Fue conmovedor.
 
-389
+388
 00:17:50,061 --> 00:17:52,821
 Atraparé a Jung Kook.
 [j-hope atrapará al miembro as]
 
-390
+389
 00:17:53,241 --> 00:17:55,405
 ¿Has visto este lugar?
 [Amable]
 
-391
+390
 00:17:55,405 --> 00:17:57,992
 [La sombra oscura se acerca a ellos]
 
-392
+391
 00:17:58,220 --> 00:18:00,690
 - Le tengo tanto miedo a Hobi.
 - ¿Encontraste cupones?
 
-393
+392
 00:18:00,690 --> 00:18:04,130
 ¿Tienes algún cupón?
 [Sacude la cabeza] [El espía se escabulle]
 
-394
+393
 00:18:04,130 --> 00:18:06,110
 - Tengo dos.
 - ¿En serio?
 
-395
+394
 00:18:06,110 --> 00:18:08,450
 [j-hope lo vio]
 
-396
+395
 00:18:09,109 --> 00:18:11,620
 - ¿Cómo están?
 - Qué aterrador.
 [j-hope empezó preguntándoles cómo están]
 
-397
+396
 00:18:11,820 --> 00:18:12,820
 Corté el de todos menos el tuyo.
 
-398
+397
 00:18:12,845 --> 00:18:14,767
 [Abrazo] [Ven aquí]
 
-399
+398
 00:18:14,767 --> 00:18:17,712
 - Yo te protegeré.
 - ¿Dos contra uno? Es mucho.
 
-400
+399
 00:18:17,712 --> 00:18:19,522
 No dejes que gane el ladrón.
 [Corre]
 
-401
+400
 00:18:19,835 --> 00:18:22,390
 [V protege al menor Jung Kook]
 
-402
+401
 00:18:22,910 --> 00:18:24,820
 ¡Jin! Por favor, retén a j-hope
 [Jung Kook le pide ayuda a Jin]
 
-403
+402
 00:18:24,820 --> 00:18:26,880
 - j-hope me salvó.
 - En serio, mira esto
 
-404
+403
 00:18:26,880 --> 00:18:28,880
 j-hope, ¡gracias!
 [El aterrador espía j-hope para el resto]
 
-405
+404
 00:18:29,432 --> 00:18:32,503
 - j-hope, me salvaste la vida.
 - Porque ya corté el tuyo.
 [A j-hope no le importa]
 
-406
+405
 00:18:33,400 --> 00:18:36,645
 - Vamos, vamos, vamos.
 - Su actuación mala.
 
-407
+406
 00:18:36,645 --> 00:18:39,110
 Les quedan diez minutos.
 [Confrontación]
 
-408
+407
 00:18:39,468 --> 00:18:40,629
 Cortaré el de Jung Kook.
 [Un fuerte deseo de cortar
 el Cerdolfo de Jung Kook]
 
-409
+408
 00:18:40,654 --> 00:18:43,452
 Se siente como quitarle la credencial
 a Jongkook en "Running Man".
 
-410
+409
 00:18:43,980 --> 00:18:46,005
 Jung Kook, no dejes que corte el tuyo.
 [El mayor se preocupa por el menor]
 
-411
+410
 00:18:46,615 --> 00:18:48,169
 Te dejaré ir, esta vez.
 
-412
+411
 00:18:48,416 --> 00:18:50,460
 [El Cerdolfo que sostiene Jung Kook]
 [Sonriente]
 
-413
+412
 00:18:50,460 --> 00:18:52,180
 ¡Ve!
 Te dejaré ir.
 
-414
+413
 00:18:52,205 --> 00:18:54,625
 Iré tras él cuando se vaya.
 [Los miembros no confían entre sí]
 
-415
+414
 00:18:55,165 --> 00:18:57,905
 No me engañará.
 [Dice tonterías]
 
-416
+415
 00:18:58,720 --> 00:19:00,240
 Debo encontrar más.
 [Mira alrededor]
 
-417
+416
 00:19:00,270 --> 00:19:03,620
 Ahora, 40. 41.
 [El cerebro RM calcula en el medio]
 
-418
+417
 00:19:03,620 --> 00:19:06,180
 Y diez, 12.
 
-419
+418
 00:19:07,200 --> 00:19:08,830
 Bien.
 
-420
+419
 00:19:08,830 --> 00:19:10,757
 [SUGA, ¿qué haces?]
 [Busca]
 
-421
+420
 00:19:10,757 --> 00:19:13,013
 [SUGA encontró la caja de la estrella
 extra dentro de la caja de ítems]
 
-422
+421
 00:19:13,189 --> 00:19:15,401
 [Esto empezó todo]
 
-423
+422
 00:19:17,328 --> 00:19:21,403
 [SUGA no sabía
 que RM encontró la estrella]
 
-424
+423
 00:19:22,940 --> 00:19:26,180
 ¿Y si los directores llevan los adornos?
 [Jin es muy creativo]
 
-425
+424
 00:19:27,000 --> 00:19:30,405
 ¿No? ¿No? ¿En serio?
 [Decepcionado]
 
-426
+425
 00:19:32,150 --> 00:19:33,890
 [Mira alrededor]
 
-427
+426
 00:19:34,660 --> 00:19:38,500
 Oí la voz de j-hope.
 [Los miembros se asustan
 cuando oyen la voz de j-hope]
 
-428
+427
 00:19:38,500 --> 00:19:41,160
 ¿Alguien quiere un premio?
 [j-hope sugiere un intercambio]
 
-429
+428
 00:19:42,100 --> 00:19:44,420
 Excepto cuando aprendí a bailar,
 esta es la primera vez
 
-430
+429
 00:19:44,440 --> 00:19:46,120
 que j-hope me da miedo.
 
-431
+430
 00:19:48,035 --> 00:19:51,060
 [Cucú]
 [Un juego de persecución
 que empezó de nuevo]
 
-432
+431
 00:19:51,060 --> 00:19:52,925
 ¡Te atraparé, Jin!
 
-433
+432
 00:19:52,925 --> 00:19:55,000
 Debe haber lugares donde nunca estuve.
 
-434
+433
 00:19:56,005 --> 00:19:57,510
 [Se detiene]
 
-435
+434
 00:19:58,030 --> 00:20:00,250
 Tengo tanto miedo.
 [El aterrado RM se escapa]
 
-436
+435
 00:20:00,820 --> 00:20:02,440
 ¡Por allá!
 
-437
+436
 00:20:02,665 --> 00:20:04,105
 No, no.
 
-438
+437
 00:20:04,490 --> 00:20:06,205
 [Mira alrededor]
 
-439
+438
 00:20:06,625 --> 00:20:08,220
 Van a hundir este lugar.
 
-440
+439
 00:20:08,310 --> 00:20:12,830
 [j-hope es omnipresente con su voz]
 [Necesito escapar]
 
-441
+440
 00:20:12,830 --> 00:20:14,560
 [El 1º y el 2º piso están
 en mundos diferentes]
 
-442
+441
 00:20:15,230 --> 00:20:16,840
 [Se escapa]
 
-443
+442
 00:20:17,160 --> 00:20:20,120
 [j-hope viene a atrapar a Jung Kook]
 
-444
+443
 00:20:20,120 --> 00:20:21,461
 [Cansado]
 
-445
+444
 00:20:23,085 --> 00:20:26,619
 [El juego de persecución no termina nunca]
 
-446
+445
 00:20:27,784 --> 00:20:29,645
 [Va de un lado al otro]
 
-447
+446
 00:20:30,941 --> 00:20:33,573
 ¿Dónde está?
 [RM sigue confundido]
 
-448
+447
 00:20:33,779 --> 00:20:37,124
 [SUGA camina lentamente
 para encontrar un adorno]
 
-449
+448
 00:20:37,255 --> 00:20:39,755
 El personal de producción
 no lo esconde en lugares fáciles.
 
-450
+449
 00:20:41,250 --> 00:20:42,895
 [¿Eh?]
 
-451
+450
 00:20:44,319 --> 00:20:46,620
 ¿Qué es esta caja?
 [Picaste el anzuelo]
 
-452
+451
 00:20:46,655 --> 00:20:48,785
 No es nuestro.
 [Mira adentro]
 
-453
+452
 00:20:49,644 --> 00:20:52,996
 [Sí... Es nuestro]
 
-454
+453
 00:20:56,860 --> 00:20:58,735
 Si me siento aquí, lo atraparé.
 [Entonces]
 
-455
+454
 00:20:58,735 --> 00:21:00,440
 Vaya, eres aterrador.
 
-456
+455
 00:21:00,440 --> 00:21:02,012
 [Jung Kook sostiene fuerte al Cerdolfo]
 
-457
+456
 00:21:02,012 --> 00:21:03,945
 [Encontró a j-hope]
 
-458
+457
 00:21:04,083 --> 00:21:06,416
 [Le tengo miedo]
 
-459
+458
 00:21:08,598 --> 00:21:11,742
 35, 36...
 [Jin revisa qué encontró]
 
-460
+459
 00:21:11,758 --> 00:21:13,450
 [¿Qué es eso?]
 
-461
+460
 00:21:15,716 --> 00:21:17,034
 ¿Eh?
 
-462
+461
 00:21:17,059 --> 00:21:19,445
 Supongo que se le cayó a alguien.
 [Jimin encontró un cupón]
 
-463
+462
 00:21:19,700 --> 00:21:22,630
 ¿Puedo tomarlo?
 Se le cayó a alguien en el camino.
 
-464
+463
 00:21:22,630 --> 00:21:24,205
 [Jimin consiguió un cupón]
 
-465
+464
 00:21:24,205 --> 00:21:26,095
 Alguien lo dejó.
 [Me encanta]
 
-466
+465
 00:21:27,750 --> 00:21:29,520
 [V fue el que dejó el cupón]
 
-467
+466
 00:21:29,840 --> 00:21:31,900
 [¡Ah! Es Jin]
 
-468
+467
 00:21:33,296 --> 00:21:35,374
 [Las manos inocentes que no tiene idea
 de lo que vendrá]
 
-469
+468
 00:21:35,374 --> 00:21:39,862
 [j-hope que es bueno para espiar]
 
-470
+469
 00:21:42,962 --> 00:21:45,385
 35, 36, 37, 38, 39.
 [Ocupado contando números]
 
-471
+470
 00:21:51,418 --> 00:21:52,402
 [Tres]
 
-472
+471
 00:21:52,419 --> 00:21:53,353
 [Dos]
 
-473
+472
 00:21:53,401 --> 00:21:54,609
 [Uno]
 
-474
+473
 00:21:54,667 --> 00:21:57,177
 [Flota como una mariposa,
 pica como una abeja]
 
-475
+474
 00:21:57,202 --> 00:21:58,943
 [Soy j-hope, el mejor espía]
 
-476
+475
 00:21:58,968 --> 00:22:00,982
 [Jin se mantiene tranquilo
 y hace lo que tiene que hacer]
 
-477
+476
 00:22:01,358 --> 00:22:04,579
 Necesito encontrar un cupón.
 [Jung Kook no encontró muchos
 porque estaba ocupado escapando]
 
-478
+477
 00:22:04,579 --> 00:22:07,815
 No tengo idea.
 ¿Dónde está?
 
-479
+478
 00:22:07,815 --> 00:22:12,150
 [Jung Kook se asoma]
 [¿Qué es eso?]
 
-480
+479
 00:22:15,540 --> 00:22:17,372
 [Relajado]
 
-481
+480
 00:22:17,372 --> 00:22:18,561
 [¿Dónde está?]
 
-482
+481
 00:22:18,586 --> 00:22:22,751
 [El líder y Jung Kook
 le tienen mucho miedo a j-hope]
 
-483
+482
 00:22:23,635 --> 00:22:25,595
 j-hope es como Hong Gildong.
 
-484
+483
 00:22:31,400 --> 00:22:34,040
 - Qué bueno verte.
 - ¿Qué haces aquí?
 
-485
+484
 00:22:34,060 --> 00:22:35,960
 - ¿Estás buscando a Jung Kook?
 - ¿Podemos negociar?
 
-486
+485
 00:22:35,960 --> 00:22:38,140
 He cortado a seis miembros.
 [Tengo una oferta secreta
 que no puedes rechazar]
 
-487
+486
 00:22:38,665 --> 00:22:39,545
 Si corto el de Jung Kook...
 
-488
+487
 00:22:39,570 --> 00:22:41,714
 Quedan cinco minutos.
 [j-hope y V comenzaron una negociación]
 
-489
+488
 00:22:41,739 --> 00:22:43,919
 Te ayudaré a cortarlo por cinco minutos.
 ¿Qué harás por mí?
 
-490
+489
 00:22:43,944 --> 00:22:45,204
 Te daré los regalos.
 
-491
+490
 00:22:45,204 --> 00:22:47,194
 Jung Kook está allí.
 [V vendió a su hermano por un regalo]
 
-492
+491
 00:22:47,194 --> 00:22:49,278
 Quedan cinco minutos.
 [Muy orgulloso]
 
-493
+492
 00:22:49,740 --> 00:22:52,685
 [La alianza se formó así]
 
-494
+493
 00:22:52,685 --> 00:22:55,685
 No está aquí.
 Se fue abajo.
 [V empezó intentando engañar a Jung Kook]
 
-495
+494
 00:22:55,685 --> 00:22:59,330
 Estuve ahí, en la parte del bloque.
 [¿Por qué dice eso?]
 
-496
+495
 00:23:01,417 --> 00:23:03,346
 [Un maestro del escondite]
 
-497
+496
 00:23:04,321 --> 00:23:06,957
 [Nervioso]
 
-498
+497
 00:23:08,390 --> 00:23:11,710
 ¡j-hope!
 [V llama a j-hope]
 
-499
+498
 00:23:11,930 --> 00:23:13,700
 Tomó el ascensor.
 Ve al 1º piso.
 [¿En serio?]
 
-500
+499
 00:23:13,700 --> 00:23:15,720
 Espera frente al ascensor.
 
-501
+500
 00:23:16,450 --> 00:23:18,585
 No, creo que debemos bajar.
 [Es mala señar]
 
-502
+501
 00:23:19,430 --> 00:23:21,195
 Vamos a bajar.
 [V se sorprendió]
 
-503
+502
 00:23:21,240 --> 00:23:23,920
 - Quiero mantenerlo a salvo.
 - Espera.
 [Esto no es lo que esperaba]
 
-504
+503
 00:23:23,920 --> 00:23:25,600
 No dejaré que corte el mío.
 
-505
+504
 00:23:25,699 --> 00:23:27,463
 [Nervioso]
 
-506
+505
 00:23:27,463 --> 00:23:28,714
 - ¿Te quedarás en el 2º piso?
 - Sí.
 [V revisa el paradero de Jung Kook]
 
-507
+506
 00:23:28,738 --> 00:23:30,473
 Pero está bloqueado.
 
-508
+507
 00:23:30,473 --> 00:23:31,978
 Cierto.
 [Decepcionado]
 
-509
+508
 00:23:34,420 --> 00:23:37,520
 Creo que debo escabullirme
 para atrapar a Jung Kook.
 [Susurra]
 
-510
+509
 00:23:37,540 --> 00:23:40,425
 Si me escondo cinco minutos más, gano.
 
-511
+510
 00:23:42,394 --> 00:23:47,292
 [Se arrastra para atrapar a Jung Kook]
 
-512
+511
 00:23:47,808 --> 00:23:50,920
 Conseguí estos.
 ¿Dónde está el otro?
 [Alardea a Jung Kook]
 
-513
+512
 00:23:50,920 --> 00:23:54,150
 ¿Eh? Tenía dos cupones
 [V vio que su cupón desapareció]
 
-514
+513
 00:23:54,400 --> 00:23:58,500
 Diez, 11, 12, 13, 14, 15, 16, 17.
 [Jimin recogió el cupón de V]
 
-515
+514
 00:23:58,520 --> 00:24:00,680
 Tengo dos cupones.
 
-516
+515
 00:24:00,827 --> 00:24:02,964
 [El cabello de j-hope]
 
-517
+516
 00:24:02,989 --> 00:24:04,759
 RM, ¿tu cerdo está a salvo?
 [Los miembros sostienen sus Cerdolfos
 incluso luego de que j-hope los cortara]
 
-518
+517
 00:24:04,759 --> 00:24:07,545
 ¡Ah!
 [Espía]
 
-519
+518
 00:24:08,469 --> 00:24:10,934
 Vaya, se esconde así.
 Qué miedo.
 
-520
+519
 00:24:11,700 --> 00:24:15,060
 ¡Trae a Jung Kook!
 [Su objetivo es Jung Kook]
 
-521
+520
 00:24:15,780 --> 00:24:17,800
 [Revisa lo que consiguió]
 
-522
+521
 00:24:17,829 --> 00:24:22,042
 [SUGA se concentra en encontrar cosas]
 [Espía]
 
-523
+522
 00:24:23,817 --> 00:24:26,286
 [Actúa tierno]
 
-524
+523
 00:24:29,025 --> 00:24:30,305
 [Chuic]
 
-525
+524
 00:24:31,700 --> 00:24:34,960
 Le tengo tanto miedo a Jeong Hoseok.
 [La confesión de RM]
 
-526
+525
 00:24:34,980 --> 00:24:37,500
 Nunca le tuve tanto miedo.
 
-527
+526
 00:24:37,520 --> 00:24:39,505
 Parece loco.
 
-528
+527
 00:24:39,505 --> 00:24:40,785
 [La espalda de j-hope,
 en busca de los demás]
 
-529
+528
 00:24:40,785 --> 00:24:43,615
 Jung Kook no usará el ascensor.
 [V viene a informarle]
 
-530
+529
 00:24:44,635 --> 00:24:46,655
 Se quedará en el 2º piso.
 
-531
+530
 00:24:47,099 --> 00:24:49,850
 Si lo atrapo, te daré todos los regalos.
 [Reverencia]
 
-532
+531
 00:24:49,875 --> 00:24:51,245
 Me esforzaré.
 
-533
+532
 00:24:53,000 --> 00:24:55,525
 ¿En el teatro?
 [Aún piensa en dónde esconderse]
 
-534
+533
 00:24:55,590 --> 00:24:57,250
 ¿Dónde está la estrella?
 
-535
+534
 00:24:59,855 --> 00:25:03,655
 Queda uno minuto para el final de la misión.
 [Jin busca con cuidado]
 
-536
+535
 00:25:04,710 --> 00:25:06,500
 Como un ángel.
 
-537
+536
 00:25:08,040 --> 00:25:09,160
 ¡Caja!
 
-538
+537
 00:25:09,467 --> 00:25:10,731
 ¿Puedo insistir
 con que esto estaba en la caja?
 
-539
+538
 00:25:10,731 --> 00:25:13,615
 ¿Puedo insistir?
 Haré eso.
 [Necesito usar la caja]
 
-540
+539
 00:25:13,755 --> 00:25:16,585
 Queda uno minuto para el final de la misión.
 
-541
+540
 00:25:17,845 --> 00:25:21,317
 Queda uno minuto.
 [SUGA está muy relajado]
 
-542
+541
 00:25:21,843 --> 00:25:25,053
 [La mano de SUGA ocupada revisando ítems]
 
-543
+542
 00:25:26,568 --> 00:25:28,842
 [¿Qué haces, Jung Kook?]
 
-544
+543
 00:25:29,100 --> 00:25:32,590
 Encontré solo dos.
 
-545
+544
 00:25:32,590 --> 00:25:34,255
 Hice un buen trabajo al principio.
 
-546
+545
 00:25:34,420 --> 00:25:36,360
 Jung Kook está desaparecido.
 
-547
+546
 00:25:36,360 --> 00:25:39,136
 ¿Puedo ir ahora?
 Solo queda un minuto.
 [Jung Kook irá al punto de reunión]
 
-548
+547
 00:25:40,110 --> 00:25:43,080
 Supongo que es una atracción.
 [Ahora ve para qué es este lugar]
 
-549
+548
 00:25:43,690 --> 00:25:46,305
 Teatro 3D.
 [Mira alrededor]
 
-550
+549
 00:25:48,555 --> 00:25:50,340
 [Se terminó la misión]
 
-551
+550
 00:25:50,340 --> 00:25:51,620
 Se terminó.
 
-552
+551
 00:25:51,640 --> 00:25:56,600
 Creo que es alrededor de los bloques,
 pero, porque j-hope espera aquí...
 [Decepcionado]
 
-553
+552
 00:25:56,620 --> 00:25:58,900
 ¿Dónde está?
 [j-hope no pudo encontrar a Jung Kook]
 
-554
+553
 00:25:59,839 --> 00:26:05,315
 [Jimin, vamos ahora]
 
-555
+554
 00:26:05,540 --> 00:26:07,600
 Vaya, Jung Kook,
 corté el de todos menos el tuyo.
 
-556
+555
 00:26:08,485 --> 00:26:10,990
 ¿Quién escondió esto?
 [No lo escondimos]
 
-557
+556
 00:26:10,990 --> 00:26:12,590
 Estaba confundido por esto.
 [Lo tomaste por tu cuenta]
 
-558
+557
 00:26:13,800 --> 00:26:16,835
 - El ladrón, ¿cuántos cortaste?
 - Todos menos el de Jung Kook.
 
-559
+558
 00:26:16,835 --> 00:26:17,805
 ¿Cortó el mío?
 
-560
+559
 00:26:17,805 --> 00:26:22,195
 Esperaba que lo dijeras.
 Así que traje las tiras.
 [Preparado minuciosamente]
 
-561
+560
 00:26:22,645 --> 00:26:23,395
 Preparado minuciosamente.
 
-562
+561
 00:26:23,395 --> 00:26:25,450
 Como prueba
 [Luego de cortar las tiras
 de dos miembros]
 
-563
+562
 00:26:26,275 --> 00:26:29,035
 dejé la tira luego de cortar la de Jin.
 [La tira de Jin]
 
-564
+563
 00:26:29,055 --> 00:26:31,305
 Esta es de RM.
 [La tira de RM]
 
-565
+564
 00:26:31,475 --> 00:26:33,575
 Jung Kook fue tan rápido.
 [Sacude la cabeza]
 
-566
+565
 00:26:33,575 --> 00:26:36,376
 Cierto, no encontró nada.
 [Pero no encontró nada]
 
-567
+566
 00:26:36,376 --> 00:26:40,080
 Seguí corriendo. Conseguí dos números,
 pero no son consecutivos
 [Se queja con los hermanos mayores]
 
-568
+567
 00:26:40,080 --> 00:26:41,980
 ¿27 y 23?
 
-569
+568
 00:26:42,108 --> 00:26:46,219
 Veamos quién tiene más números
 que sean consecutivos.
 
-570
+569
 00:26:46,244 --> 00:26:47,269
 [Resultado del juego:
 números, estrellas y cupones]
 
-571
+570
 00:26:47,293 --> 00:26:50,514
 [j-hope: Terminó su misión al cortar
 las tiras de todos menos la de Jung Kook]
 
-572
+571
 00:26:50,539 --> 00:26:54,631
 [Resultado del juego luego de usar
 las estrellas y los cupones.
 (En el orden de intercambio)]
 
-573
+572
 00:26:54,656 --> 00:26:56,166
 [Resultado final] [Ganador: j-hope
 que cortó los globos de todos
 menos el de Jung Kook]
 
-574
+573
 00:26:56,191 --> 00:26:58,870
 [2º lugar - RM y SUGA]
 [4º lugar - Jimin, 5º lugar - Jin,
 6º lugar - V y Jung Kook]
 
-575
+574
 00:26:58,870 --> 00:27:02,702
 El intercambio está hecho.
 ¿Me dan el regalo que quiero?
 [Intercambio completo]
 
-576
+575
 00:27:02,702 --> 00:27:05,607
 El telón bajará luego de que recibas esto.
 [j-hope eligió un regalo
 antes de que empezara el juego]
 
-577
+576
 00:27:05,632 --> 00:27:06,482
 - Vaya.
 - ¿En serio?
 
-578
+577
 00:27:06,482 --> 00:27:08,582
 - ¿Taekwon V va a salir?
 - ¿De verdad?
 
-579
+578
 00:27:08,582 --> 00:27:11,862
 ¡Uno, dos, tres!
 
-580
+579
 00:27:12,122 --> 00:27:15,055
 - Vaya.
 - Vaya.
 
-581
+580
 00:27:15,830 --> 00:27:17,659
 - Vaya.
 - Vaya, ¡es enorme!
 
-582
+581
 00:27:17,660 --> 00:27:20,440
 Como Hobi ganó el juego, ¡entremos!
 
-583
+582
 00:27:20,440 --> 00:27:22,155
 Vaya, increíble.
 
-584
+583
 00:27:23,260 --> 00:27:25,455
 - ¿Quién fue el 2º lugar?
 - Déjenme ver.
 
-585
+584
 00:27:25,455 --> 00:27:27,760
 - El pequeño es tierno.
 - Esto es muy tierno.
 
-586
+585
 00:27:28,400 --> 00:27:30,290
 Se revelarán al final.
 
-587
+586
 00:27:30,290 --> 00:27:32,430
 Jung Kook, por favor, termina esto.
 
-588
+587
 00:27:32,430 --> 00:27:36,170
 - Como inhaló gas de helio.
 - Lo disfruté mucho.
 [Inhala gas de helio]
 
-589
+588
 00:27:36,380 --> 00:27:38,910
 Hazlo luego.
 No ahora.
 
-590
+589
 00:27:38,910 --> 00:27:40,580
 - Estamos en el Centro V.
 - Cierto.
 [RM, ¿dónde estás mirando?]
 
-591
+590
 00:27:40,580 --> 00:27:44,055
 Descubrimos cosas interesantes
 sobre Taekwon V.
 [Ocupado inhalando el gas de helio]
 
-592
+591
 00:27:44,055 --> 00:27:46,825
 - Además, nuevos aspectos de j-hope.
 - Cierto
 
-593
+592
 00:27:46,825 --> 00:27:47,685
 j-hope, ¡hiciste un gran trabajo!
 
-594
+593
 00:27:47,738 --> 00:27:49,912
 [El mejor jugador de hoy: j-hope,
 que mostró un nuevo aspecto
 de su carácter]
 
-595
+594
 00:27:49,913 --> 00:27:51,350
 [Espía]
 
-596
+595
 00:27:52,645 --> 00:27:54,214
 ¿Qué es ese ruido?
 
-597
+596
 00:27:54,239 --> 00:27:58,186
 [La increíble actuación del espía j-hope]
 
-598
+597
 00:28:01,228 --> 00:28:03,200
 ¿Por qué escapas de mí?
 
-599
+598
 00:28:05,755 --> 00:28:10,125
 ¡Les deseamos una feliz Navidad!
 
-600
+599
 00:28:10,125 --> 00:28:13,015
 Dos, tres, ¡feliz Navidad!
 [¡Feliz Navidad con BTS!]
 
-601
+600
 00:28:13,015 --> 00:28:15,965
 - ¡Feliz Navidad!
 - ¡Feliz Navidad!
